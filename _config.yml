@@ -1,0 +1,120 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Madhavan Lab
+email: vm1@illinois.edu
+description: >- # this means to ignore newlines until "baseurl:"
+  Studying Quantum Materials with STM and MBE
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+theme: alembic-jekyll-theme
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-default-layout
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+
+
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+navigation_header:
+
+- title: About
+  url: /About/
+- title: Research
+  url: /Research/
+- title: People
+  url: /People/
+- title: The Lab
+  url: /the_lab/
+- title: Publications
+  url: /Publications/
+- title: Blog
+  url: /blog/
+
+
+navigation_footer:
+- title: Research Funded by National Science Foundation,
+  url: https://www.nsf.gov/
+- title: Gordon and Betty Moore Foundation,
+  url: https://www.moore.org/
+- title: and the Department of Energy.
+  url: https://www.energy.gov/
+
+
+# Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-US # Set the site language
+author: Sean Howard
+title: "Madhavan Lab" # Site name or title, also used in jekyll-seo-tag
+logo: "/_img/homepage/m_lab_logo_3.png" # Site logo, also used in jekyll-seo-tag
+description: "We are a research group at the University of Illinois studying quantum materials. Using start of the art STM and MBE techniques, we generate insights into the most elusive and impactful materials. " # Site description and default description, also used in jekyll-seo-tag
+url: "" # Site url, also used in jekyll-seo-tag
+baseurl: ""
+repo: ""
+email: "vm1@illinois.edu"
+# disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
+# google_analytics: ''
+# google_analytics_anonymize_ip: ''
+# service_worker: false # Will turn off the service worker if set to false
+css_inline: true
+
+# 3. Gem settings
+paginate: 2 # jekyll-paginate > items per page
+paginate_path: "blog/page:num/" # jekyll-paginate > blog page # jekyll-mentions > service used when @replyinge
+
+collections:
+  posts:
+    title: Blog # Needed for Siteleaf
+    output: true
+    description: "What's the Latest News?" # The post list page content
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      image: "/assets/default-social-image.png" # Default image for sharing
+
+sass:
+  style: compressed # Style compression
+permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
+excerpt_separator: <!-- more --> # Marks end of excerpt in posts
+timezone: America/Chicago # Timezone for blog posts and alike
+
+include:
+  - "_img"

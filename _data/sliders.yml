@@ -1,0 +1,17 @@
+# example slider
+- selector: home_slider
+  captions: true
+  images:
+    - src: /_img/homepage/slider/STM1.png
+      alt: STM 1
+    - src: /_img/homepage/slider/phonons.png
+      alt: Determination of phonon modes in PbSe
+    - src: /_img/homepage/slider/STM2.jpg
+      alt: STM 2
+    - src: /_img/homepage/slider/co3sn2s2_cool.png
+      alt: Topography of a reconstructed surface
+    - src: /_img/homepage/slider/the_group.jpg
+      alt: The Group!
+  settings:
+    height: 400
+    effect: "'fade'"

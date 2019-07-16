@@ -83,7 +83,7 @@ author: Sean Howard
 title: "Madhavan Lab" # Site name or title, also used in jekyll-seo-tag
 logo: "/_img/homepage/m_lab_logo_3.png" # Site logo, also used in jekyll-seo-tag
 description: "We are a research group at the University of Illinois studying quantum materials. Using start of the art STM and MBE techniques, we generate insights into the most elusive and impactful materials. " # Site description and default description, also used in jekyll-seo-tag
-url: "Madhavanlabcode.github.io" # Site url, also used in jekyll-seo-tag
+url: "https://Madhavanlabcode.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: ""
 email: "vm1@illinois.edu"

@@ -108,7 +108,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "/assets/default-social-image.png" # Default image for sharing
+      image: "/_img/homepage/m_lab_logo_3.png" # Default image for sharing
 
 sass:
   style: compressed # Style compression

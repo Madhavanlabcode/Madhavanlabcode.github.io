@@ -1,5 +1,5 @@
 ---
-feature_image: "/_img/Research/Research_banner.png"
+feature_image: "/_img/Research/Research_Banner.png"
 excerpt: ""
 aside: false
 ---

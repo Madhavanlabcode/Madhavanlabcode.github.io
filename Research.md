@@ -11,7 +11,7 @@ aside: false
 
 {% include figure.html image="/_img/Research/SrRu2O4.png" caption="<center>QPI in SrRu2O4</center>" position="left" width="400" height="300" %}  
 
-In 1957, University of Illinois Professors John Bardeen and Leon Cooper, along with graduate student Robert Schreiffer, published a groundbreaking work on the theory of superconductivity. Known as BCS theory, it provided the first microscopic explanation for superconductivity since its discovery by Onnes in 1911. It was extremely successful until the inception of high temperature superconductors in the late 80s. These superconductors defied explanation by BCS theory and today join a class of materials known as unconventional superconductors. Unconventional superconducting host several competing emergent phenomena and is one of the most pressing research areas for their fundamental physics and potential applications.  
+In 1957, University of Illinois Professors John Bardeen and Leon Cooper, along with graduate student Robert Schreiffer, published a groundbreaking work on the theory of superconductivity. Known as BCS theory, it provided the first microscopic explanation for superconductivity since its discovery by Onnes in 1911. It was extremely successful until the inception of high temperature superconductors in the late 80s. These superconductors defied explanation by BCS theory and today join a class of materials known as unconventional superconductors. Unconventional superconducting host several competing emergent phenomena and is one of the most pressing research areas for their fundamental physics and potential applications. Add sentence.  
 
 
 ### Topological Materials  

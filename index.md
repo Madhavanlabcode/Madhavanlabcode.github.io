@@ -20,6 +20,6 @@ Majorana particles, excitations which are their own anti-particle, have gained m
 
 [*Read More*](https://arxiv.org/abs/1903.00515)
 
----
+
 
 | ![image](/_img/I-logo.png){:height="80px" width="80px"} | ![image](/_img/nsf_logo.png){:height="80px" width="80px"} | ![image](/_img/moore_logo.png){:height="80px" width="80px"} | ![image](/_img/doe_logo.png){:height="80px" width="80px"} |

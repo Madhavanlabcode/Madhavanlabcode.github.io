@@ -4,12 +4,13 @@ excerpt: ""
 aside: false
 ---
 
+# Research Topics
 
 ### Unconventional Superconductors
 
 {% include figure.html image="/_img/Research/SrRu2O4.png" caption="<center>QPI in SrRu2O4</center>" position="left" width="400" height="300" %}  
 
-In 1957, University of Illinois Professors John Bardeen and Leon Cooper, along with graduate student Robert Schreiffer, published a groundbreaking work on the theory of superconductivity. Known as BCS theory, it provided the first microscopic explanation for superconductivity since its discovery by Onnes in 1911. It was extremely successful until the inception of high temperature superconductors in the late 80s. These superconductors defied explanation by BCS theory and today join a class of materials known as unconventional superconductors. Unconventional superconducting host several competing emergent phenomena and is one of the most pressing research areas for their fundamental physics and potential applications. 
+In 1957, University of Illinois Professors John Bardeen and Leon Cooper, along with graduate student Robert Schreiffer, published a groundbreaking work on the theory of superconductivity. Known as BCS theory, it provided the first microscopic explanation for superconductivity since its discovery by Onnes in 1911. It was extremely successful until the inception of high temperature superconductors in the late 80s. These superconductors defied explanation by BCS theory and today join a class of materials known as unconventional superconductors. Unconventional superconducting host several competing emergent phenomena and is one of the most pressing research areas for their fundamental physics and potential applications.
 
 
 ### Topological Materials  
@@ -21,7 +22,7 @@ A relatively new class of materials, topological materials are described by the 
 
 ### Strongly Correlated Electrons  
 
-{% include figure.html image="/_img/Research/TaS2_fig.png" caption="<center>Evidence for Wigner Crystallization in TaS2</center>" position="left" width="400" height="600" %}
+{% include figure.html image="/_img/Research/SrLaIrO4.png" caption="<center>Local disorder in (Sr 1-x La x)2IrO4</center>" position="left" width="240" height="360" %}
 
  In a lot of materials, the properties can be adequately described without considering the role of electron-electron interactions and instead absorbing these effects into renormalized quantities like the effective mass. However in some of the most interesting materials, known as strongly correlated electron systems, these electron-electron interactions cannot be swept under the rug. In fact, these interactions are responsible for entirely new states of matter like  Mott Insulators, Wigner Crystals, and Heavy Fermions. Strongly correlated electron systems are of particular importance for the role they play in high temperature superconductors, with the exact role correlations play in this unconventional superconductivity still a matter of much debate. Since strongly correlated materials are known for their very local properties, STM is uniquely suited to study these systems and provide invaluable insights.  
 

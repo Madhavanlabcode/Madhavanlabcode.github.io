@@ -1,6 +1,7 @@
 # example slider
 - selector: home_slider
   captions: true
+  bullets: true
   images:
     - src: /_img/homepage/slider/STM1.png
       alt: STM 1

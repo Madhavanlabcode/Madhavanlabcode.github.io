@@ -1,7 +1,7 @@
 ---
 title: Research Topics
 feature_text:
-feature_image: "/_img/Research/Research_Banner.png"
+feature_image: "/_img/Research/Research_Banner_2.jpg"
 excerpt: ""
 aside: false
 ---

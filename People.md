@@ -16,7 +16,7 @@ aside: false
 ### Postdocs
 ---
 
-| ![image](/_img/People/Lin.png "Lin Jiao"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|
+| ![image](/_img/People/Lin.jpg "Lin Jiao"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|
 | ![image](/_img/People/Leena.png "Leena Aggarwal"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Leena Aggarwal</span> | <leena7@illinois.edu>|
 
 ---

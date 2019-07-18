@@ -1,10 +1,10 @@
 ---
+title: Research Topics
+feature_text:
 feature_image: "/_img/Research/Research_Banner.png"
 excerpt: ""
 aside: false
 ---
-
-# Research Topics
 
 ### Unconventional Superconductors
 

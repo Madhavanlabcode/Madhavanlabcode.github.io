@@ -38,6 +38,16 @@ aside: false
 
 ---
 
+### Undergraduates
+
+---
+
+| ![image](/_img/People/Will.png "Will Jing"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Will Jing</span> | <yixinj2@illinois.edu> |
+
+
+
+---
+
 ### Past Group Members
 
 ---

@@ -36,4 +36,4 @@ In the material TaS<sub>2</sub>, a Mott Insulating phase is closely related to a
 
 
 
-| ![image](/_img/uofi_physics.png){:height="120px" width="120px"} | ![image](/_img/nsf_logo.png){:height="120px" width="120px"} | ![image](/_img/moore_logo.png){:height="120px" width="120px"} | ![image](/_img/doe_logo.png){:height="120px" width="120px"} |  
+| ![image](/_img/uofi_physics.png){:height="180px" width="180px"} | ![image](/_img/nsf_logo.png){:height="120px" width="120px"} | ![image](/_img/moore_logo.png){:height="120px" width="120px"} | ![image](/_img/doe_logo.png){:height="120px" width="120px"} |  

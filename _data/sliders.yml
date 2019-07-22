@@ -7,10 +7,10 @@
       alt: STM 1
     - src: /_img/homepage/slider/phonons.png
       alt: Determination of phonon modes in PbSe
+    - src: /_img/homepage/slider/scan153for_site2.jpg
+      alt: Reconstructed surface of KV<sub>3</sub>Sb<sub>5</sub>
     - src: /_img/homepage/slider/STM2.jpg
       alt: STM 2
-    - src: /_img/homepage/slider/co3sn2s2_cool.png
-      alt: Topography of a reconstructed surface in Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>
     - src: /_img/homepage/slider/the_group.jpg
       alt: The Group!
   settings:

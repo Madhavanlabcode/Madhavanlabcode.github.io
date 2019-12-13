@@ -12,6 +12,11 @@ aside: false
 
 ---
 
+**Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor UTe<sub>2</sub>**  
+*Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan*
+Submitted to Nature 
+[arXiv:1908.02846](https://arxiv.org/abs/1908.02846)
+
 **Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
 *Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
 [arXiv:1906.11983](https://arxiv.org/abs/1906.11983)  

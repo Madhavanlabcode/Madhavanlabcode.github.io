@@ -11,19 +11,26 @@ image_sliders:
 
 ---
 ## Latest Research
----  
+---
+
+### *Signatures of Chiral Spin-Triplet Topological Superconductivity*
+
+{% include figure.html image="/_img/homepage/UTe2_Figure_12282019.png" caption="<center>Chiral In-Gap States in UTe2</center>" position="left" width="240" height="360" %}  
+Materials with the potential for harboring unconventional spin-triplet pairing superconductivity have attracted significant attention in the condensed matter physics community. Until now, extremely low critical temperatures and superconducting phases buried within a ferromagnetic phase or only appearing at high pressures have hampered efforts to find such materials. However, with a transition temperature of 1.6 K having been recently discovered in the heavy fermion compound UTe<sub>2, the material has presented a new opportunity to investigate possible spin-triplet pairing. Using scanning tunneling microscopy and spectroscopy, our group has found chiral in-gap states in UTe<sub>2, providing direct experimental evidence for chiral spin-triplet topological superconductivity.
+
+[*Read More*](https://arxiv.org/abs/1908.02846)
+
+---
 
 ### *Majorana's on the Move*
 
 {% include figure.html image="/_img/homepage/fesete_homepage.png" caption="<center>1D Majorana modes in domain walls</center>" position="left" width="200" height="300" %}  
-Majorana particles, excitations which are their own anti-particle, have gained much attention for their potential in topological quantum computing. Previously realized as 0D excitations in superconducting vortices, they have also been theorized to exist in 1D inside of topological supercoductors. Recently we have observed the signature of 1D majorana modes at domain walls in FeSe<sub>0.45</sub>Te<sub>0.55</sub>, where a π phase shift in the superconducting order parameter hosts these exotic states.
+Majorana particles, excitations which are their own anti-particle, have gained much attention for their potential in topological quantum computing. Previously realized as 0D excitations in superconducting vortices, they have also been theorized to exist in 1D inside of topological supercoductors. Recently we have observed the signature of 1D Majorana modes at domain walls in FeSe<sub>0.45</sub>Te<sub>0.55</sub>, where a π phase shift in the superconducting order parameter hosts these exotic states.
 
 [*Read More*](https://arxiv.org/abs/1903.00515)
-
 <br>
 <br>
-<br>  
-
+<br>
 
 ---
 

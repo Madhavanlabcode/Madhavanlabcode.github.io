@@ -12,6 +12,10 @@ aside: false
 
 ---
 
+**Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
+*Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
+[arXiv:1908.02846](https://arxiv.org/abs/1912.02798)
+
 **Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor UTe<sub>2</sub>**  
 *Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
 Submitted to Nature <br>

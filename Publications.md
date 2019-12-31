@@ -12,7 +12,7 @@ aside: false
 
 ---
 
-**Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators**
+**Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
 *Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
 [arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
 

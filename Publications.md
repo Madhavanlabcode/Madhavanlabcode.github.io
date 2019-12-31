@@ -12,6 +12,18 @@ aside: false
 
 ---
 
+**Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators**
+*Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
+[arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
+
+**Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
+*Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
+Submitted to Phys. Rev B
+
+**Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
+*Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
+[arXiv:190.11205](https://arxiv.org/abs/1910.11205)
+
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
 [arXiv:1908.02846](https://arxiv.org/abs/1912.02798)
@@ -31,9 +43,8 @@ Submitted to Nature <br>
 [arXiv:1903.00515](https://arxiv.org/abs/1903.00515)
 
 **Doping induced Mott collapse and the density wave instability in (Sr<sub>1-x</sub> La<sub>x</sub>)<sub>3</sub>Ir<sub>2</sub>O<sub>7</sub>**  
-*Zhenyu Wang, Daniel Walkup, Yulia Maximenko, Wenwen Zhou, Tom Hogan, Ziqiang Wang, Stephen D. Wilson, Vidya Madhavan*  
-[arXiv:1905.06469](https://arxiv.org/abs/1905.06469)   
-To be published npj Quantum Materials (2019)
+*Zhenyu Wang, Daniel Walkup, Yulia Maximenko, Wenwen Zhou, Tom Hogan, Ziqiang Wang, Stephen D. Wilson, Vidya Madhavan*     
+[npj Quantum Mater. 4, 43 (2019)](https://www.nature.com/articles/s41535-019-0183-y)
 
 **Topological nature of step edge states on the surface of topological crystalline insulator Pb<sub>0.7</sub>Sn<sub>0.3</sub>Se**  
 *Davide Iaia, Chang-Yan Wang, Yulia Maximenko, Daniel Walkup, R. Sankar, Fangcheng Chou, Yuan-Ming Lu, Vidya Madhavan*  
@@ -73,7 +84,7 @@ To be published npj Quantum Materials (2019)
 
 **Quasiparticle Interference and Strong Electron-Mode Coupling in the Quasi-One-Dimensional Bands of Sr<sub>2</sub>RuO<sub>4</sub>**  
 *Zhenyu Wang, Daniel Walkup, Philip Derry, Thomas Scaffidi, Melinda Rak, Sean Vig, Anshul Kogar, Ilija Zeljkovic, Ali Husain, Luiz H. Santos, Yuxuan Wang, Andrea Damascelli, Yoshiteru Maeno, Peter Abbamonte, Eduardo Fradkin, Vidya Madhavan*  
-[Nature Physics DOI:10.1038/NPHYS4107 (2017)](https://www.nature.com/articles/nphys4107)
+[Nature Physics 13, 799–805 (2017)](https://www.nature.com/articles/nphys4107)
 
 **Influence of domain walls in the incommensurate charge density wave state of Cu intercalated 1T-TiSe<sub>2</sub>**  
 *Shichao Yan, Davide Iaia, Emilia Morosan, Eduardo Fradkin, Peter Abbamonte, Vidya Madhavan*  

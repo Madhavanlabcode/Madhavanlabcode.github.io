@@ -24,12 +24,13 @@ Materials with the potential for harboring unconventional spin-triplet pairing s
 
 ### *Majorana's on the Move*
 
-{% include figure.html image="/_img/homepage/fesete_homepage.png" caption="<center>1D Majorana modes in domain walls</center>" position="left" width="200" height="300" %}  
+{% include figure.html image="/_img/homepage/fesete_homepage.png" caption="<center></center>" position="left" width="200" height="300" %}  
+
+[**Read the Science Perspective!**](https://science.sciencemag.org/content/367/6473/23)
+
 Majorana particles, excitations which are their own anti-particle, have gained much attention for their potential in topological quantum computing. Previously realized as 0D excitations in superconducting vortices, they have also been theorized to exist in 1D inside of topological supercoductors. Recently we have observed the signature of 1D Majorana modes at domain walls in FeSe<sub>0.45</sub>Te<sub>0.55</sub>, where a π phase shift in the superconducting order parameter hosts these exotic states.
 
-[*Read More*](https://arxiv.org/abs/1903.00515)
-<br>
-<br>
+[Science  03 Jan 2020: Vol. 367, Issue 6473, pp. 104-108](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
 <br>
 
 ---

@@ -22,6 +22,11 @@ aside: false
 
 ---
 
+**Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor UTe<sub>2</sub>**  
+*Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
+Submitted to Nature <br>
+[arXiv:1908.02846](https://arxiv.org/abs/1908.02846)
+
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
 *Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
 [arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
@@ -38,10 +43,6 @@ Submitted to Phys. Rev B
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
 [arXiv:1908.02846](https://arxiv.org/abs/1912.02798)
 
-**Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor UTe<sub>2</sub>**  
-*Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
-Submitted to Nature <br>
-[arXiv:1908.02846](https://arxiv.org/abs/1908.02846)
 
 **Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
 *Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  

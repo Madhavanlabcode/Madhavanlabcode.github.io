@@ -33,7 +33,7 @@ Submitted to Nature <br>
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
-Submitted to Phys. Rev B <br>
+Submitted to Phys. Rev. B <br>
 [arXiv:1912.12798](https://arxiv.org/abs/1912.12798)
 
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>

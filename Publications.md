@@ -14,7 +14,7 @@ aside: false
 
 **Evidence for dispersing 1D Majorana channels in an iron-based superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
-[Science 367(6473), 104-108](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
+[Science 367, 6473 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
 
 ---
 
@@ -33,7 +33,8 @@ Submitted to Nature <br>
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
-Submitted to Phys. Rev B
+Submitted to Phys. Rev B <br>
+[arXiv:1912.12798](https://arxiv.org/abs/1912.12798)
 
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
@@ -181,7 +182,7 @@ Submitted to Phys. Rev B
 [Nature Communications 3, 1158 (2012)](https://www.nature.com/articles/ncomms2150)
 
 **Visualizing Landau levels of Dirac electrons in a one dimensional potential**
-*Yoshinori Okada, Wenwen Zhou, Chetan. Dhital, D. Walkup, Ying Ran, Z. Wang, Stephen D. Wilson, V. Madhavan*  
+*Yoshinori Okada, Wenwen Zhou, Chetan Dhital, D. Walkup, Ying Ran, Z. Wang, Stephen D. Wilson, V. Madhavan*  
 [Phys. Rev. Lett. 109, 166407 (2012)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.109.166407)  
 
 ---
@@ -196,7 +197,7 @@ Submitted to Phys. Rev B
 
 **Direct Observation of Broken Time-Reversal Symmetry on the Surface of a Magnetically Doped Topological Insulator**  
 *Y. Okada, C. Dhital, Wen-Wen Zhou, Hsin Lin, S. Basak, A. Bansil, Y. -B. Huang, H. Ding, Z. Wang, Stephen D. Wilson, V. Madhavan*  
-[Physical Review Letters 106, 206805 (2011)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.206805)
+[Phys. Rev. Lett. 106, 206805 (2011)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.106.206805)
 
 ---
 
@@ -206,7 +207,7 @@ Submitted to Phys. Rev B
 
 **Coexistence of competing orders with two energy gaps in real and momentum space in high-Tc superconductor Bi<sub>2</sub>Sr<sub>2-x</sub>La<sub>x</sub>CuO<sub>6+δ</sub>**  
 *J.-H. Ma, Z.-H. Pan, F. C. Niestemski, M. Neupane, Y.-M. Xu, P. Richard, K. Nakayama, T. Sato, T. Takahashi, H.-Q. Luo, L. Fang, H.-H. Wen, Ziqiang Wang, H. Ding, V. Madhavan*  
-[PRL 101, 207002 (2008)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.207002)
+[Phys. Rev. Lett. 101, 207002 (2008)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.207002)
 
 ---
 

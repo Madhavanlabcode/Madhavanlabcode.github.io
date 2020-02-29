@@ -12,9 +12,13 @@ aside: false
 
 ---
 
+**Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
+*Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
+[PNAS (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
+
 **Evidence for dispersing 1D Majorana channels in an iron-based superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
-[Science 367, 6473 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
+[Science 367 (6473), 104-108 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
 
 ---
 
@@ -39,11 +43,6 @@ Submitted to Phys. Rev. B <br>
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
 [arXiv:190.11205](https://arxiv.org/abs/1910.11205)
-
-**Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
-*Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
-[arXiv:1908.02846](https://arxiv.org/abs/1912.02798)
-
 
 **Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
 *Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
@@ -109,11 +108,11 @@ Submitted to Phys. Rev. B <br>
 
 **First-order melting of a weak spin-orbit Mott insulator into a correlated metal**  
 *Tom Hogan, Z. Yamani, D. Walkup, Xiang Chen, Rebecca Dally, Thomas Z. Ward, John Hill, Z. Islam, Vidya Madhavan, Stephen D. Wilson*  
-[Physical Review Letters 114, 257203 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.257203)  
+[Phys. Rev. Lett. 114, 257203 (2015)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.114.257203)  
 
 **Nanoscale Determination of the Mass Enhancement Factor in the Lightly-Doped Bulk Insulator Lead Selenide**  
 *Ilija Zeljkovic, Kane L Scipioni, Daniel Walkup, Yoshinori Okada, Wenwen Zhou, Raman Sankar, Guoqing Chang, Yung Jui Wang, Hsin Lin, Arun Bansil, Fangcheng Chou, Ziqiang Wang, Vidya Madhavan*  
-[Nature Commun. 6, 6559 (2015)](https://www.nature.com/articles/ncomms7559)  
+[Nature Communications 6, 6559 (2015)](https://www.nature.com/articles/ncomms7559)  
 
 **Strain engineering Dirac surface states in heteroepitaxial topological crystalline insulator thin films**
 *Ilija Zeljkovic, Daniel Walkup, Badih Assaf, Kane L Scipioni, R. Sankar, Fangcheng Chou, Vidya Madhavan*  
@@ -149,7 +148,7 @@ Submitted to Phys. Rev. B <br>
 
 **Observation of Dirac node formation and mass acquisition in a topological crystalline insulator**  
 *Yoshinori Okada, Maksym Serbyn, Hsin Lin, Daniel Walkup, Wenwen Zhou, Chetan Dhital, Madhab Neupane, Suyang Xu, Yung Jui Wang, R. Sankar, Fangcheng Chou, Arun Bansil, M. Zahid Hasan, Stephen D. Wilson, Liang Fu, Vidya Madhavan*  
-[Science 341, 6153 (2013)](https://science.sciencemag.org/content/341/6153/1496)
+[Science 341 (6153), 1496-1499 (2013)](https://science.sciencemag.org/content/341/6153/1496)
 
 **Imaging the evolution of metallic states in a spin-orbit interaction driven correlated iridate**  
 *Yoshinori Okada, Daniel Walkup, Hsin Lin, Chetan Dhital, Tay-Rong Chang, Sovit Khadka, Wenwen Zhou, Horng-Tay Jeng, Arun Bansil, Ziqiang Wang, Stephen Wilson, Vidya Madhavan*  

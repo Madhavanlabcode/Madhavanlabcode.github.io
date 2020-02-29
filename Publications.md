@@ -234,7 +234,7 @@ Submitted to Phys. Rev. B <br>
 
 **A four unit cell periodic pattern of quasi-particle states surrounding vortex cores Bi<sub>2</sub>Sr<sub>2</sub>CaCu<sub>2</sub>O<sub>8+δ</sub>**  
 *J. E. Hoffman, E.W. Hudson, K.M. Lang, V. Madhavan, S.H. Pan, H. Eisaki, S. Uchida, J.C. Davis*  
-[Science 295, 466 (2002)](https://science.sciencemag.org/content/295/5554/466)  
+[Science 295 (5554), 466-469 (2002)](https://science.sciencemag.org/content/295/5554/466)  
 
 **Interplay of magnetism and high-Tc superconductivity at individual Ni impurity atoms in Bi<sub>2</sub>Sr<sub>2</sub>CaCu<sub>2</sub>O<sub>8+δ</sub>**  
 *E.W. Hudson, K. M. Lang, V. Madhavan, S. H. Pan, H. Eisaki, S. Uchida, J. C. Davis*  
@@ -262,4 +262,4 @@ Submitted to Phys. Rev. B <br>
 
 **Tunneling into a Single Magnetic Atom: Spectroscopic Evidence of the Kondo Resonance**  
 *V. Madhavan, W. Chen, T. Jamneala, M.F. Crommie, N.S. Wingreen*  
-[Science 280, 567 (1998)](http://science.sciencemag.org/content/280/5363/567)
+[Science 280 (5363), 567-569 (1998)](http://science.sciencemag.org/content/280/5363/567)

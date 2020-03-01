@@ -18,7 +18,7 @@ aside: false
 
 **Evidence for dispersing 1D Majorana channels in an iron-based superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
-[Science 367 (6473), 104-108 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
+[Science 367, 104-108 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
 
 ---
 

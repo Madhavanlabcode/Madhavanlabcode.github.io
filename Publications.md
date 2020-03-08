@@ -12,6 +12,11 @@ aside: false
 
 ---
 
+**Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
+*Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
+[arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
+(to be published in Phys. Rev. Lett. (2020))
+
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
 [PNAS (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
@@ -30,10 +35,6 @@ aside: false
 *Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
 Submitted to Nature <br>
 [arXiv:1908.02846](https://arxiv.org/abs/1908.02846)
-
-**Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
-*Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
-[arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>

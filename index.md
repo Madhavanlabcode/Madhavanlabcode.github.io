@@ -13,6 +13,15 @@ image_sliders:
 ## Latest Research
 ---
 
+### *Signatures of Chiral Spin-Triplet Topological Superconductivity*
+
+{% include figure.html image="/_img/homepage/UTe2_Figure_12282019.png" caption="<center>Chiral In-Gap States in UTe2</center>" position="left" width="240" height="360" %}  
+
+[Nature  579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2) <br>
+
+Materials with the potential for harboring unconventional spin-triplet pairing superconductivity have attracted significant attention in the condensed matter physics community. Until now, extremely low critical temperatures and superconducting phases buried within a ferromagnetic phase or only appearing at high pressures have hampered efforts to find such materials. However, with a transition temperature of 1.6 K having been recently discovered in the heavy fermion compound UTe<sub>2, the material has presented a new opportunity to investigate possible spin-triplet pairing. Using scanning tunneling microscopy and spectroscopy, our group has found chiral in-gap states in UTe<sub>2, providing direct experimental evidence for chiral spin-triplet topological superconductivity.
+
+---
 
 ### *Majorana's on the Move*
 
@@ -25,15 +34,6 @@ Majorana particles, excitations which are their own anti-particle, have gained m
 
 <br>
 <br>
-
----
-
-### *Signatures of Chiral Spin-Triplet Topological Superconductivity*
-
-{% include figure.html image="/_img/homepage/UTe2_Figure_12282019.png" caption="<center>Chiral In-Gap States in UTe2</center>" position="left" width="240" height="360" %}  
-Materials with the potential for harboring unconventional spin-triplet pairing superconductivity have attracted significant attention in the condensed matter physics community. Until now, extremely low critical temperatures and superconducting phases buried within a ferromagnetic phase or only appearing at high pressures have hampered efforts to find such materials. However, with a transition temperature of 1.6 K having been recently discovered in the heavy fermion compound UTe<sub>2, the material has presented a new opportunity to investigate possible spin-triplet pairing. Using scanning tunneling microscopy and spectroscopy, our group has found chiral in-gap states in UTe<sub>2, providing direct experimental evidence for chiral spin-triplet topological superconductivity.
-
-[*Read More*](https://arxiv.org/abs/1908.02846)
 
 ---
 

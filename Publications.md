@@ -12,6 +12,10 @@ aside: false
 
 ---
 
+**Chiral Superconductivity in Heavy-Fermion Metal UTe<sub>2</sub>**  
+*Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
+[Nature 579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2)
+
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
 *Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
 [arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
@@ -21,7 +25,7 @@ aside: false
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
 [PNAS (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
 
-**Evidence for dispersing 1D Majorana channels in an iron-based superconductor**  
+**Evidence for Dispersing 1D Majorana Channels in an Iron-Based Superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
 [Science 367, 104-108 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf)
 
@@ -30,11 +34,6 @@ aside: false
 ### 2019
 
 ---
-
-**Microscopic evidence for a chiral superconducting order parameter in the heavy fermion superconductor UTe<sub>2</sub>**  
-*Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
-Submitted to Nature <br>
-[arXiv:1908.02846](https://arxiv.org/abs/1908.02846)
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>

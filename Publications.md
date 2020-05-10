@@ -18,12 +18,11 @@ aside: false
 
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
 *Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
-[arXiv:1907.12660](https://arxiv.org/abs/1907.12660)
-(to be published in Phys. Rev. Lett. (2020))
+[Physical Review Letters 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
 
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
-[PNAS (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
+[PNAS 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
 
 **Evidence for Dispersing 1D Majorana Channels in an Iron-Based Superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  

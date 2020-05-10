@@ -5,4 +5,4 @@ categories:
   - People
 ---
 
-Congratulations to Yulia Maximenko on succssfully completing her PhD Defense! Yulia will be moving on to become a Postdoctoral Fellow at the National Institute of Standards and Technology, Center for Nanoscale Science and Technology in Maryland and will be working with [Dr. Joseph A. Stroscio](https://www.nist.gov/people/joseph-stroscio). Best wishes, Yulia!
+Congratulations to Yulia Maximenko on successfully completing her PhD Defense! Yulia will be moving on to become a Postdoctoral Fellow at the National Institute of Standards and Technology, Center for Nanoscale Science and Technology in Maryland and will be working with [Dr. Joseph A. Stroscio](https://www.nist.gov/people/joseph-stroscio). Best wishes, Yulia!

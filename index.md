@@ -44,7 +44,7 @@ Majorana particles, excitations which are their own anti-particle, have gained m
 
 ---
 
-### *Electrons stuck in 1D*
+### *Electrons Stuck in 1D*
 
 {% include figure.html image="/_img/Research/TaS2_fig.png" caption="<center>Evidence for Wigner Crystallization in TaS2</center>" position="left" width="240" height="360" %}  
 In the material TaS<sub>2</sub>, a Mott Insulating phase is closely related to a coexisting "Star of David" charge density wave. On a specific charge density wave domain wall, the local electronic potential well is strong enough to shift the lower Hubbard band all the way to the Fermi energy. The strong electronic correlations in this material combined with the low electron density along the domain wall present the perfect conditions for Wigner crystallization. When measuring the differential conductance, a proxy for the local density of states, we see zigzag patterns predicted for Wigner crystallization in 1D. Combined with noise measurements, this provides the first experimental observation of a 1D Wigner crystal within a Mott Insulator.  

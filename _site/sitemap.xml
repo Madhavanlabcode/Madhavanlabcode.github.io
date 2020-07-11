@@ -33,8 +33,16 @@
 <lastmod>2020-04-24T09:30:00-05:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/people/2020/05/02/Lab-Members-Win-Awards-Copy/</loc>
+<lastmod>2020-05-02T08:30:00-05:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/people/2020/05/02/Lab-Members-Win-Awards/</loc>
 <lastmod>2020-05-02T08:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/people/2020/07/06/Lab-Members-Win-Awards-Copy-(2)/</loc>
+<lastmod>2020-07-06T08:30:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>
@@ -89,5 +97,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page5/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page6/</loc>
 </url>
 </urlset>

@@ -12,7 +12,9 @@ image_sliders:
 ---
 ## Latest News
 ---
-### *Awards for Lab Members*
+### *2020 Awards*
+
+Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulations to Anuva! Guannan has won the [Scott Anderson Outstanding Graduate Assistant Award](https://physics.illinois.edu/people/honors-and-awards/graduate-awards.asp) for 2020 from the UIUC Dept. of Physics; congratulations, Guannan! Undergraduates Zhuozhen Cai and Will Jing have also received Summer 2020 research awards. Zhuozhen received a 2020 Lorella M. Jones Undergraduate Summer Research Award and LAS James Scholar Preble Research Fellowship; Will was awarded a Research Support Grant (RSG) sponsored by the Office of Undergraduate Research (OUR)! And, Rachel Birchmier has received a prestigious [NDSEG Fellowship](https://ndseg.asee.org/) from the US Department of Defense for 2020! Read the [Blog](http://madhavanlab.org/blog/) for more news from the Madhavan Lab.
 ---
 ## Latest Research
 ---

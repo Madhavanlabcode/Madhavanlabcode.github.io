@@ -39,8 +39,8 @@ aside: false
 
 ---
 
-| ![image](/_img/People/Will.png "Will Jing"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Will Jing</span> | <yixinj2@illinois.edu> |
-| ![image](/_img/People/Zhuozhen.jpg "Zhuozhen Cai"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Zhuozhen Cai</span> | <zc10@illinois.edu> |
+| ![image](/_img/People/Will.png "Will Jing"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Will Jing</span> | <yixinj2@illinois.edu> |
+| ![image](/_img/People/Zhuozhen.jpg "Zhuozhen Cai"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Zhuozhen Cai</span> | <zc10@illinois.edu> |
 
 
 ---
@@ -48,10 +48,10 @@ aside: false
 ### Past Group Members
 
 ---
-| ![image](/_img/People/Lin.jpg "Lin Jiao"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|
-| ![image](/_img/People/Sean.jpg "Sean Howard"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Sean Howard</span> | <sthowrd2@illinois.edu> |
-| ![image](/_img/People/Yulia.jpg "Yulia Maximenko"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yulia Maximenko</span> | <maximen2@illinois.edu> |
-| ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Zhenyu Wang</span> | <zywang2@ustc.edu.cn> |
-| ![image](/_img/People/Somesh.jpg "Somesh Ganguli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Somesh Ganguli</span> | <somesh@illinois.edu> |
-| ![image](/_img/People/Shichao.jpg "Shichao Yan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Shichao Yan</span> | <yanshch@shanghaitech.edu.cn> |
+| ![image](/_img/People/Lin.jpg "Lin Jiao -- now Staff Scientist at National High Magnetic Field Laboratory, Florida State University"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|<br>
+| ![image](/_img/People/Sean.jpg "Sean Howard"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Sean Howard</span> | <sthowrd2@illinois.edu> |<br>
+| ![image](/_img/People/Yulia.jpg "Yulia Maximenko"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Yulia Maximenko</span> | <maximen2@illinois.edu> |<br>
+| ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Zhenyu Wang</span> | <zywang2@ustc.edu.cn> |<br>
+| ![image](/_img/People/Somesh.jpg "Somesh Ganguli"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Somesh Ganguli</span> | <somesh@illinois.edu> |<br>
+| ![image](/_img/People/Shichao.jpg "Shichao Yan"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Shichao Yan</span> | <yanshch@shanghaitech.edu.cn> |<br>
 | ![image](/_img/People/Yoshi.jpg "Yoshinori Okada"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Yoshinori Okada</span> | <yoshinori.okada@oist.jp> |

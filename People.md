@@ -49,7 +49,7 @@ aside: false
 
 ---
 | ![image](/_img/People/Lin.jpg "Lin Jiao - now Staff Scientist at FSU"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Lin Jiao - now Staff Scientist at Florida State University</span> | <linjiao@illinois.edu>|<br>
-| ![image](/_img/People/Sean.jpg "Sean Howard - now Staff Scientist at Johns Hopkins University Applied Physics Laboratory"){:height="122px" width="94px"} |  <span style="font-size:1.0em">now Staff Scientist at Johns Hopkins University Applied Physics Laboratory</span> | <sthowrd2@illinois.edu> |<br>
+| ![image](/_img/People/Sean.jpg "Sean Howard - now Staff Scientist at Johns Hopkins University Applied Physics Laboratory"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Sean Howard - now Staff Scientist at Johns Hopkins University Applied Physics Laboratory</span> | <sthowrd2@illinois.edu> |<br>
 | ![image](/_img/People/Yulia.jpg "Yulia Maximenko"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Yulia Maximenko</span> | <maximen2@illinois.edu> |<br>
 | ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Zhenyu Wang</span> | <zywang2@ustc.edu.cn> |<br>
 | ![image](/_img/People/Somesh.jpg "Somesh Ganguli"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Somesh Ganguli</span> | <somesh@illinois.edu> |<br>

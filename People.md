@@ -54,4 +54,4 @@ aside: false
 | ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Zhenyu Wang</span> | <zywang2@ustc.edu.cn> |
 | ![image](/_img/People/Somesh.jpg "Somesh Ganguli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Somesh Ganguli</span> | <somesh@illinois.edu> |
 | ![image](/_img/People/Shichao.jpg "Shichao Yan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Shichao Yan</span> | <yanshch@shanghaitech.edu.cn> |
-| ![image](/_img/People/Yoshi.jpg "Yoshinori Okada"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yoshinori Okada</span> | <yoshinori.okada@oist.jp> |
+| ![image](/_img/People/Yoshi.jpg "Yoshinori Okada"){:height="122px" width="94px"} |  <span style="font-size:1.5em">Yoshinori Okada</span> | <yoshinori.okada@oist.jp> |

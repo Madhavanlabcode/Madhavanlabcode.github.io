@@ -10,6 +10,10 @@ image_sliders:
 <br>  
 
 ---
+## Latest News
+---
+### *Awards for Lab Members*
+---
 ## Latest Research
 ---
 

@@ -9,7 +9,7 @@ image_sliders:
 {% include slider.html selector="home_slider" %}  
 <br>  
 ---
-## Recent News News
+## Recent News
 ---
 
 ### *2020 Awards*

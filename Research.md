@@ -38,6 +38,6 @@ Using the two MBE growth chambers in our lab, we are focused on the growth and c
 
 ### Transition Metal Dichalcogenides  
 
-{% include figure.html image="/_img/Research/TiSe2.png" caption="<center>QPI in Cu intercalated TiSe2</center>" position="left" width="500" height="300" %}
+{% include figure.html image="/_img/Research/TiSe2.png" caption="<center>QPI in Cu Intercalated TiSe2</center>" position="left" width="500" height="300" %}
 
 Often called the "lego blocks" of material science research, transition metal dichalcogenides (TMDCs) are layered materials consisting of on transition metal (such as W or Ti) for every two chalcogen atom (such as Se or Te). These materials are especially suitable for STM research as the van der Waals bonding in the stacking direction leads to easy cleaving and the layered structure often leads to quasi-2D properties. The weak stacking allows for easy material intercalation in-between layers, often dramatically changing the physical properties. A vast array of phenomena have been observed in TMDCs, including superconductivity, charge density waves, and Mott Insulators to name a few.  

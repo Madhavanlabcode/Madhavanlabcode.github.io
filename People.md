@@ -16,7 +16,6 @@ aside: false
 ### Postdocs
 ---
 
-| ![image](/_img/People/Lin.jpg "Lin Jiao"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|
 | ![image](/_img/People/Leena.png "Leena Aggarwal"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Leena Aggarwal</span> | <leena7@illinois.edu>|
 
 ---
@@ -26,10 +25,8 @@ aside: false
 ---
 
 | ![image](/_img/People/Charlie.jpg "Charlie Steiner"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Charlie Steiner</span> | <csteine2@illinois.edu> |
-| ![image](/_img/People/Yulia.jpg "Yulia Maximenko"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yulia Maximenko</span> | <maximen2@illinois.edu> |
 | ![image](/_img/People/Davide.jpg "Davide Iaia"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Davide Iaia</span> | <diaia2@illinois.edu> |
 | ![image](/_img/People/Eugene.jpg "Eugene Ark"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Eugene Ark</span> | <ark3@illinois.edu> |
-| ![image](/_img/People/Sean.jpg "Sean Howard"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Sean Howard</span> | <sthowrd2@illinois.edu> |
 | ![image](/_img/People/Guannan.jpg "Guannan Chen"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Guannan Chen</span> | <gchen37@illinois.edu> |
 | ![image](/_img/People/Jorge.jpg "Jorge Olivare Rodriguez"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Jorge Olivares Rodriguez</span> | <jorgeo2@illinois.edu> |
 | ![image](/_img/People/Anuva.jpg "Anuva Aishwarya"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Anuva Aishwarya</span> | <anuvaa2@illinois.edu> |
@@ -51,7 +48,9 @@ aside: false
 ### Past Group Members
 
 ---
-
+| ![image](/_img/People/Lin.jpg "Lin Jiao"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Lin Jiao</span> | <linjiao@illinois.edu>|
+| ![image](/_img/People/Sean.jpg "Sean Howard"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Sean Howard</span> | <sthowrd2@illinois.edu> |
+| ![image](/_img/People/Yulia.jpg "Yulia Maximenko"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yulia Maximenko</span> | <maximen2@illinois.edu> |
 | ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Zhenyu Wang</span> | <zywang2@ustc.edu.cn> |
 | ![image](/_img/People/Somesh.jpg "Somesh Ganguli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Somesh Ganguli</span> | <somesh@illinois.edu> |
 | ![image](/_img/People/Shichao.jpg "Shichao Yan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Shichao Yan</span> | <yanshch@shanghaitech.edu.cn> |

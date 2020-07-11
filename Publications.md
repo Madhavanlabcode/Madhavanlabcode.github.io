@@ -17,7 +17,7 @@ aside: false
 [Nature 579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2)
 
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
-*Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
+*Joseph C. Szabo, Kyungmin Lee, Vidya Madhavan, Nandini Trivedi* <br>
 [Phys. Rev. Lett. 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
 
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  

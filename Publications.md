@@ -18,11 +18,11 @@ aside: false
 
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
 *Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
-[Physical Review Letters 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
+[Phys. Rev. Lett. 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
 
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
-[PNAS 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
+[Proc. Natl. Acad. Sci. U.S.A. 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
 
 **Evidence for Dispersing 1D Majorana Channels in an Iron-Based Superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
@@ -63,7 +63,7 @@ Submitted to Phys. Rev. B <br>
 
 **Disorder induced power-law gaps in an Insulator-Metal Mott transition**  
 *Zhenyu Wang, Yoshinori Okada, Jared O’ Neal, Wenwen Zhou, Daniel Walkup, Chetan Dhital, Tom Hogan, Patrick Clancy, Young-June Kim, Y. F. Hu, Luiz Santos, Stephen D. Wilson, Nandini Trivedi, Vidya Madhavan*  
-[PNAS 115, (44) 11198-11202 (2018)](https://www.pnas.org/content/115/44/11198)
+[Proc. Natl. Acad. Sci. U.S.A. 115, (44) 11198-11202 (2018)](https://www.pnas.org/content/115/44/11198)
 
 **Unique Gap Structure and Symmetry of the Charge Density Wave in Single-Layer VSe<sub>2</sub>**  
 *P. Chen, Woei Wu Pai, Y.-H. Chan, V. Madhavan, M. Y. Chou, S.-K. Mo, A.-V. Fedorov, and T.-C. Chiang*  

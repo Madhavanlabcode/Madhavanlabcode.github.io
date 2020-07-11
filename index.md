@@ -9,6 +9,7 @@ image_sliders:
 {% include slider.html selector="home_slider" %}  
 <br>  
 ---
+---
 ## Recent News
 ---
 

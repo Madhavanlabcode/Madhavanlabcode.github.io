@@ -15,7 +15,7 @@ image_sliders:
 ### *2020 Awards*
 
 asdf
-----
+---
 
 ---
 ## Latest Research

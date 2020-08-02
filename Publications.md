@@ -12,7 +12,7 @@ aside: false
 
 ---
 
-**40 years of the Quantum Hall Effect**  
+**40 Years of the Quantum Hall Effect**  
 *Klaus von Klitzing, Tapash Chakraborty, Philip Kim, Vidya Madhavan, Xi Dai, James McIver, Yoshinori Tokura, Lucile Savary, Daria Smirnova, Ana Maria Rey, Claudia Felser, Johannes Gooth, Xiaoliang Qi* <br> [Nat. Rev. Phys. 2, 397-401 (2020)](https://www.nature.com/articles/s42254-020-0209-1)
 
 **Chiral Superconductivity in Heavy-Fermion Metal UTe<sub>2</sub>**  

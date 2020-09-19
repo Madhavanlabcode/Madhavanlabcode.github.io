@@ -12,6 +12,11 @@ aside: false
 
 ---
 
+**Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
+*Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
+Accepted to Phys. Rev. B, as Editors' Suggestion <br>
+[arXiv:1912.12798](https://arxiv.org/abs/1912.12798)
+
 **40 Years of the Quantum Hall Effect**  
 *Klaus von Klitzing, Tapash Chakraborty, Philip Kim, Vidya Madhavan, Xi Dai, James McIver, Yoshinori Tokura, Lucile Savary, Daria Smirnova, Ana Maria Rey, Claudia Felser, Johannes Gooth, Xiaoliang Qi* <br> [Nat. Rev. Phys. 2, 397-401 (2020)](https://www.nature.com/articles/s42254-020-0209-1)
 
@@ -36,11 +41,6 @@ aside: false
 ### 2019
 
 ---
-
-**Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
-*Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
-Submitted to Phys. Rev. B <br>
-[arXiv:1912.12798](https://arxiv.org/abs/1912.12798)
 
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>

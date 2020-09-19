@@ -48,7 +48,7 @@ aside: false
 ### Past Group Members
 
 ---
-| ![image](/_img/People/Lin.jpg "Lin Jiao - now Staff Scientist at FSU"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Lin Jiao - now Staff Scientist at Florida State University</span> | <linjiao@illinois.edu>|<br>
+| ![image](/_img/People/Lin.jpg "Lin Jiao - now Research Faculty at Florida State University"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Lin Jiao - now Research Faculty at Florida State University National High Magnetic Field Laboratory</span> | <lin.jiao@magnet.fsu.edu>|<br>
 | ![image](/_img/People/Sean.jpg "Sean Howard - now Senior Staff Scientist at Johns Hopkins University Applied Physics Laboratory"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Sean Howard - now Senior Staff Scientist at Johns Hopkins University Applied Physics Laboratory</span> | <sthowrd2@illinois.edu> |<br>
 | ![image](/_img/People/Yulia.jpg "Yulia Maximenko - now Postdoctoral Fellow at University of Maryland - College Park and National Institute of Standards and Technology"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Yulia Maximenko - now Postdoctoral Fellow at University of Maryland - College Park and National Institute of Standards and Technology</span> | <maximen2@illinois.edu> |<br>
 | ![image](/_img/People/Zhenyu.jpg "Zhenyu Wang - now Professor at University of Science and Technology of China (USTC)"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Zhenyu Wang - now Professor at University of Science and Technology of China (USTC)</span> | <zywang2@ustc.edu.cn> |<br>

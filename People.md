@@ -18,7 +18,7 @@ aside: false
 
 | ![image](/_img/People/Leena.png "Leena Aggarwal"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Leena Aggarwal</span> | <leena7@illinois.edu>|
 
-| ![image](/_img/People/Seokjin.png "Seokjin Bae"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Seokjin Bae</span> | <sjbae@illinois.edu>|
+| ![image](/_img/People/Seokjin.jpg "Seokjin Bae"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Seokjin Bae</span> | <sjbae@illinois.edu>|
 
 ---
 

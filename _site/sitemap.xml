@@ -29,10 +29,6 @@
 <lastmod>2020-03-25T09:30:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/people/2020/03/25/Congratulations-Davide/</loc>
-<lastmod>2020-03-25T09:30:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/people/2020/04/24/Rachel-Wins-NDSEG-Fellowship/</loc>
 <lastmod>2020-04-24T09:30:00-05:00</lastmod>
 </url>
@@ -43,6 +39,10 @@
 <url>
 <loc>http://localhost:4000/people/2020/07/06/Anuva-PPG-MRL-Fellowship/</loc>
 <lastmod>2020-07-06T08:30:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/people/2020/10/14/Congratulations-Davide/</loc>
+<lastmod>2020-10-14T12:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/404/</loc>

@@ -14,7 +14,7 @@ aside: false
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
-[Phys. Rev. B - Editors' Suggestion 99, 155116 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)
+[Phys. Rev. B - Editors' Suggestion 102, 115149 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)
 
 **40 Years of the Quantum Hall Effect**  
 *Klaus von Klitzing, Tapash Chakraborty, Philip Kim, Vidya Madhavan, Xi Dai, James McIver, Yoshinori Tokura, Lucile Savary, Daria Smirnova, Ana Maria Rey, Claudia Felser, Johannes Gooth, Xiaoliang Qi* <br> [Nat. Rev. Phys. 2, 397-401 (2020)](https://www.nature.com/articles/s42254-020-0209-1)

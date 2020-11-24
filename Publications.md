@@ -12,6 +12,11 @@ aside: false
 
 ---
 
+**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
+*Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
+[arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
+
+
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
 [Phys. Rev. B - Editors' Suggestion 102, 115149 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)
@@ -43,7 +48,7 @@ aside: false
 
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
-[arXiv:190.11205](https://arxiv.org/abs/1910.11205)
+[arXiv:1910.11205](https://arxiv.org/abs/1910.11205)
 
 **Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
 *Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  

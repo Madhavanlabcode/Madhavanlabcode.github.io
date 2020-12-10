@@ -33,7 +33,7 @@ aside: false
 | ![image](/_img/People/Jorge.jpg "Jorge Olivare Rodriguez"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Jorge Olivares Rodriguez</span> | <jorgeo2@illinois.edu> |
 | ![image](/_img/People/Anuva.jpg "Anuva Aishwarya"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Anuva Aishwarya</span> | <anuvaa2@illinois.edu> |
 | ![image](/_img/People/Rachel.jpg "Rachel Birchmier"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Rachel Birchmier</span> | <rlb5@illinois.edu> |
-| ![image](/_img/People/Arjun.png "Arjun Raghavan"){:height="300px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> | <arjunr3@illinois.edu> |
+| ![image](/_img/People/Arjun.png "Arjun Raghavan"){:height="500px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> | <arjunr3@illinois.edu> |
 
 ---
 

@@ -27,7 +27,6 @@ aside: false
 ---
 
 | ![image](/_img/People/Charlie.jpg "Charlie Steiner"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Charlie Steiner</span> | <csteine2@illinois.edu> |
-| ![image](/_img/People/Davide.jpg "Davide Iaia"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Davide Iaia</span> | <diaia2@illinois.edu> |
 | ![image](/_img/People/Eugene.jpg "Eugene Ark"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Eugene Ark</span> | <ark3@illinois.edu> |
 | ![image](/_img/People/Guannan.jpg "Guannan Chen"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Guannan Chen</span> | <gchen37@illinois.edu> |
 | ![image](/_img/People/Jorge.jpg "Jorge Olivare Rodriguez"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Jorge Olivares Rodriguez</span> | <jorgeo2@illinois.edu> |

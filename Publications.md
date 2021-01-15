@@ -13,6 +13,10 @@ aside: false
 **Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
 *Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
 [arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
+
+**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
+*Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
+[arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
 ---
 
 ### 2020
@@ -21,7 +25,6 @@ aside: false
 **Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
 *Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
 [arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
-
 
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>

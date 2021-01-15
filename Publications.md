@@ -5,17 +5,19 @@ feature_image: "/_img/homepage/publication_banner.jpg"
 excerpt: ""
 aside: false
 ---
+---
 
+### 2021
+
+---
+**Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
+*Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
+[arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
 ---
 
 ### 2020
 
 ---
-
-**Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
-*Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
-[arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
-
 **Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
 *Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
 [arXiv:2011.10096](https://arxiv.org/abs/2011.10096)

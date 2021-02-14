@@ -9,6 +9,17 @@ image_sliders:
 {% include slider.html selector="home_slider" %}  
 <br>  
 
+## Recent News
+---
+
+### *Davide's Defense*
+
+Congratulations to Davide Iaia on completing his PhD Defense, Scanning Tunneling Microscopy and Spectroscopy Study of Phase Transition and Topology in Layered Transition Metal Dichalcogenides!
+
+### *2020 Awards*
+
+Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulations to Anuva! Guannan has won the [Scott Anderson Outstanding Graduate Assistant Award](https://physics.illinois.edu/people/honors-and-awards/graduate-awards.asp) for 2020 from the UIUC Dept. of Physics; congratulations, Guannan! Undergraduates Zhuozhen Cai and Will Jing have also received Summer 2020 research awards. Zhuozhen received a 2020 Lorella M. Jones Undergraduate Summer Research Award and LAS James Scholar Preble Research Fellowship; Will was awarded a Research Support Grant (RSG) sponsored by the Office of Undergraduate Research (OUR)! And, Rachel Birchmier has received a prestigious [NDSEG Fellowship](https://ndseg.asee.org/) from the US Department of Defense for 2020! Read the [Blog](http://madhavanlab.org/blog/) for more news from the Madhavan Lab.
+
 ---
 ## Latest Research
 ---
@@ -37,7 +48,7 @@ Majorana particles, excitations which are their own anti-particle, have gained m
 
 ---
 
-### *Electrons stuck in 1D*
+### *Electrons Stuck in 1D*
 
 {% include figure.html image="/_img/Research/TaS2_fig.png" caption="<center>Evidence for Wigner Crystallization in TaS2</center>" position="left" width="240" height="360" %}  
 In the material TaS<sub>2</sub>, a Mott Insulating phase is closely related to a coexisting "Star of David" charge density wave. On a specific charge density wave domain wall, the local electronic potential well is strong enough to shift the lower Hubbard band all the way to the Fermi energy. The strong electronic correlations in this material combined with the low electron density along the domain wall present the perfect conditions for Wigner crystallization. When measuring the differential conductance, a proxy for the local density of states, we see zigzag patterns predicted for Wigner crystallization in 1D. Combined with noise measurements, this provides the first experimental observation of a 1D Wigner crystal within a Mott Insulator.  

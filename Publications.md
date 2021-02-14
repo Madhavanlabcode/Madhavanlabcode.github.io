@@ -5,24 +5,43 @@ feature_image: "/_img/homepage/publication_banner.jpg"
 excerpt: ""
 aside: false
 ---
+---
+
+### 2021
 
 ---
+
+**Test**
+
+**Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
+*Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
+[arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
 
 ### 2020
 
 ---
+**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
+*Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
+[arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
+
+**Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
+*Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
+[Phys. Rev. B - Editors' Suggestion 102, 115149 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)
+
+**40 Years of the Quantum Hall Effect**  
+*Klaus von Klitzing, Tapash Chakraborty, Philip Kim, Vidya Madhavan, Xi Dai, James McIver, Yoshinori Tokura, Lucile Savary, Daria Smirnova, Ana Maria Rey, Claudia Felser, Johannes Gooth, Xiaoliang Qi* <br> [Nat. Rev. Phys. 2, 397-401 (2020)](https://www.nature.com/articles/s42254-020-0209-1)
 
 **Chiral Superconductivity in Heavy-Fermion Metal UTe<sub>2</sub>**  
 *Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
 [Nature 579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2)
 
 **Local Spectroscopies Reveal Percolative Metal in Disordered Mott Insulators** <br>
-*Joseph C. Szabo, Kyungmin Lee, V. Madhavan, Nandini Trivedi* <br>
-[Physical Review Letters 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
+*Joseph C. Szabo, Kyungmin Lee, Vidya Madhavan, Nandini Trivedi* <br>
+[Phys. Rev. Lett. 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
 
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
 *Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
-[PNAS 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
+[Proc. Natl. Acad. Sci. U.S.A. 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
 
 **Evidence for Dispersing 1D Majorana Channels in an Iron-Based Superconductor**  
 *Zhenyu Wang, Jorge Olivares Rodriguez, Lin Jiao, Sean Howard, Martin Graham, G. D. Gu, Taylor Hughes, Dirk K. Morr, Vidya Madhavan*  
@@ -34,14 +53,9 @@ aside: false
 
 ---
 
-**Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
-*Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
-Submitted to Phys. Rev. B <br>
-[arXiv:1912.12798](https://arxiv.org/abs/1912.12798)
-
 **Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
-[arXiv:190.11205](https://arxiv.org/abs/1910.11205)
+[arXiv:1910.11205](https://arxiv.org/abs/1910.11205)
 
 **Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
 *Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
@@ -60,10 +74,11 @@ Submitted to Phys. Rev. B <br>
 ### 2018
 
 ---
+**Test**
 
 **Disorder induced power-law gaps in an Insulator-Metal Mott transition**  
 *Zhenyu Wang, Yoshinori Okada, Jared O’ Neal, Wenwen Zhou, Daniel Walkup, Chetan Dhital, Tom Hogan, Patrick Clancy, Young-June Kim, Y. F. Hu, Luiz Santos, Stephen D. Wilson, Nandini Trivedi, Vidya Madhavan*  
-[PNAS 115, (44) 11198-11202 (2018)](https://www.pnas.org/content/115/44/11198)
+[Proc. Natl. Acad. Sci. U.S.A. 115, (44) 11198-11202 (2018)](https://www.pnas.org/content/115/44/11198)
 
 **Unique Gap Structure and Symmetry of the Charge Density Wave in Single-Layer VSe<sub>2</sub>**  
 *P. Chen, Woei Wu Pai, Y.-H. Chan, V. Madhavan, M. Y. Chou, S.-K. Mo, A.-V. Fedorov, and T.-C. Chiang*  

@@ -11,16 +11,44 @@ aside: false
 
 ---
 
-**Test**
-**Test2**
+**Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
+*Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
+[arXiv:2110.02238](https://arxiv.org/pdf/2110.02238.pdf)
+
+**Observation of Near E<sub>F</sub> Fermi-Arc van Hove Singularity with Prominent Coupling to Phonon in a van der Waals Coupled Weyl Semimetal**<br>
+*Z. Wang (+), Cheng-Yi Huang (+), Chia-Hsiu Hsu (+), Hiromasa Namiki, Tay-Rong Chang, Feng-Chuan Chuang, H. Lin, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
+[arXiv:2108.09633](https://arxiv.org/abs/2108.09633)
+
+**Visualizing Superconductivity in a Doped Weyl Semimetal with Broken Inversion Symmetry**<br>
+*Zhenyu Wang, Jorge Olivares Rodriguez, Hiromasa Namiki, Vivek Pareek, Keshav Dani, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
+[Phys. Rev. B 104, 115102 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.115102)
+
+**Evidence for Higher Order Topology in Bi and Bi<sub>0.92</sub>Sb<sub>0.08</sub>**<br>
+*Leena Aggarwal, Penghao Zhu, Taylor Hughes, Vidya Madhavan*<br>
+[Nat. Commun. 12, 4420 (2021)](https://www.nature.com/articles/s41467-021-24683-8)
+
+**Evidence for One-Dimensional Chiral Edge States in a Magnetic Weyl Semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>**<br>
+*Sean Howard, Lin Jiao, Zhenyu Wang, Noam Morali, Rajib Batabyal, Pranab Kumar-Nag, Nurit Avraham, Haim Beidenkopf, Praveen Vir, Enke Liu, Chandra Shekhar, Claudia Felser, Taylor Hughes, Vidya Madhavan*<br>
+[Nat. Commun. 12, 4269 (2021)](https://www.nature.com/articles/s41467-021-24561-3)
+
+**Majorana Fermion Arcs and the Local Density of States of UTe<sub>2</sub>**<br>
+*Yue Yu, Vidya Madhavan, S. Raghu*<br>
+[arXiv:2107.04621](https://arxiv.org/abs/2107.04621)
+
+**Metal-to-Insulator Transition in Pt-Doped TiSe<sub>2</sub> Driven by Emergent Network of Narrow Transport Channels**<br>
+*Kyungmin Lee, Jesse Choe, Davide Iaia, Juqiang Li, Ming Shi, Junzhang Ma, Mengyu Yao, Zhenyu Wang, Chien-Lung Huang, Masayuki Ochi, Ryotaro Arita, Utpal Chatterjee, Emilia Morosan, Vidya Madhavan, Nandini Trivedi*<br>
+[npj Quantum Mater. 6, 8 (2021)](https://www.nature.com/articles/s41535-020-00305-2)
+
 **Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
 *Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
 [arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
 
+---
+
 ### 2020
 
 ---
-**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>**<br>
+**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>** <br>
 *Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
 [arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
 
@@ -28,10 +56,10 @@ aside: false
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
 [Phys. Rev. B - Editors' Suggestion 102, 115149 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)
 
-**40 Years of the Quantum Hall Effect**  
+**40 Years of the Quantum Hall Effect**<br>
 *Klaus von Klitzing, Tapash Chakraborty, Philip Kim, Vidya Madhavan, Xi Dai, James McIver, Yoshinori Tokura, Lucile Savary, Daria Smirnova, Ana Maria Rey, Claudia Felser, Johannes Gooth, Xiaoliang Qi* <br> [Nat. Rev. Phys. 2, 397-401 (2020)](https://www.nature.com/articles/s42254-020-0209-1)
 
-**Chiral Superconductivity in Heavy-Fermion Metal UTe<sub>2</sub>**  
+**Chiral Superconductivity in Heavy-Fermion Metal UTe<sub>2</sub>**<br>
 *Lin Jiao, Sean Howard, Sheng Ran, Zhenyu Wang, Jorge Olivares Rodriguez, Manfred Sigrist, Ziqiang Wang, Nicholas Butch, Vidya Madhavan* <br>
 [Nature 579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2)
 
@@ -53,17 +81,17 @@ aside: false
 
 ---
 
-**Observation of linearly dispersive edge modes in a magnetic Weyl semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>** <br>
-*Sean Howard, Lin Jiao, Zhenyu Wang, Praveen Vir, Chandra Shekhar, Claudia Felser, Taylor Hughes, V. Madhavan* <br>
-[arXiv:1910.11205](https://arxiv.org/abs/1910.11205)
-
-**Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
-*Anuva Aishwarya, Sean Howard, Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
-[arXiv:1906.11983](https://arxiv.org/abs/1906.11983)  
-
 **Doping induced Mott collapse and the density wave instability in (Sr<sub>1-x</sub> La<sub>x</sub>)<sub>3</sub>Ir<sub>2</sub>O<sub>7</sub>**  
 *Zhenyu Wang, Daniel Walkup, Yulia Maximenko, Wenwen Zhou, Tom Hogan, Ziqiang Wang, Stephen D. Wilson, Vidya Madhavan*     
 [npj Quantum Mater. 4, 43 (2019)](https://www.nature.com/articles/s41535-019-0183-y)
+
+**Dirac Nodal Arc Semimetal PtSn<sub>4</sub>: An Ideal Platform for Understanding Surface Properties and Catalysis for Hydrogen Evolution**<br>
+*Guowei Li (+), Chenguang Fu (+), Wujun Shi (+), Lin Jiao, Jiquan Wu, Qun Yang, Rana Saha, Machteld E. Kamminga, Abhay K. Srivastava, Enke Liu, Aliza N. Yazdani, Nitesh Kumar, Jian Zhang, Graeme R. Blake, Xianjie Liu, Mats Fahlman, Steffen Wirth, Gudrun Auffermann, Johannes Gooth, Stuart Parkin, Vidya Madhavan, Xinliang Feng, Yan Sun (++), Claudia Felser (++)*<br>
+[Angew. Chem. 58, (37) 13107-13112 (2019)](https://onlinelibrary.wiley.com/doi/10.1002/anie.201906109)
+
+**Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
+*Anuva Aishwarya (+), Sean Howard (+), Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
+[arXiv:1906.11983](https://arxiv.org/abs/1906.11983)
 
 **Topological nature of step edge states on the surface of topological crystalline insulator Pb<sub>0.7</sub>Sn<sub>0.3</sub>Se**  
 *Davide Iaia, Chang-Yan Wang, Yulia Maximenko, Daniel Walkup, R. Sankar, Fangcheng Chou, Yuan-Ming Lu, Vidya Madhavan*  
@@ -74,7 +102,6 @@ aside: false
 ### 2018
 
 ---
-**Test**
 
 **Disorder induced power-law gaps in an Insulator-Metal Mott transition**  
 *Zhenyu Wang, Yoshinori Okada, Jared O’ Neal, Wenwen Zhou, Daniel Walkup, Chetan Dhital, Tom Hogan, Patrick Clancy, Young-June Kim, Y. F. Hu, Luiz Santos, Stephen D. Wilson, Nandini Trivedi, Vidya Madhavan*  
@@ -205,7 +232,7 @@ aside: false
 ---
 
 **Electron-Spin Excitation Coupling in an Electron Doped Copper Oxide Superconductor**  
-*Jun Zhao, F. C. Niestemski, Shankar Kunwar, Shiliang Li, P. Steffens, A. Hiess, H. J. Kang, Stephen D. Wilson, Ziqiang Wang, Pengcheng Dai, V. Madhavan*  
+*Jun Zhao (+), F. C. Niestemski (+), Shankar Kunwar, Shiliang Li, P. Steffens, A. Hiess, H. J. Kang, Stephen D. Wilson, Ziqiang Wang, Pengcheng Dai (++), V. Madhavan (++)*  
 [Nature Physics 7, 719-724 (2011)](https://www.nature.com/articles/nphys2006)
 
 **Direct Observation of Broken Time-Reversal Symmetry on the Surface of a Magnetically Doped Topological Insulator**  
@@ -277,3 +304,9 @@ aside: false
 **Tunneling into a Single Magnetic Atom: Spectroscopic Evidence of the Kondo Resonance**  
 *V. Madhavan, W. Chen, T. Jamneala, M.F. Crommie, N.S. Wingreen*  
 [Science 280 (5363), 567-569 (1998)](http://science.sciencemag.org/content/280/5363/567)
+
+---
+
+*+ - Equal Contribution*
+
+*++ - Co-Corresponding Author*

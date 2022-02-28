@@ -7,17 +7,21 @@ aside: false
 ---
 ---
 
-### 2021
+### 2022
+
+---
+**Observation of Near E<sub>F</sub> Fermi-Arc van Hove Singularity with Prominent Coupling to Phonon in a van der Waals Coupled Weyl Semimetal**<br>
+*Z. Wang (+), Cheng-Yi Huang (+), Chia-Hsiu Hsu (+), Hiromasa Namiki, Tay-Rong Chang, Feng-Chuan Chuang, H. Lin, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
+[Phys. Rev. B 105, 075100 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.075110)
 
 ---
 
+### 2021
+
+---
 **Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
 *Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
 [arXiv:2110.02238](https://arxiv.org/pdf/2110.02238.pdf)
-
-**Observation of Near E<sub>F</sub> Fermi-Arc van Hove Singularity with Prominent Coupling to Phonon in a van der Waals Coupled Weyl Semimetal**<br>
-*Z. Wang (+), Cheng-Yi Huang (+), Chia-Hsiu Hsu (+), Hiromasa Namiki, Tay-Rong Chang, Feng-Chuan Chuang, H. Lin, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
-[arXiv:2108.09633](https://arxiv.org/abs/2108.09633)
 
 **Visualizing Superconductivity in a Doped Weyl Semimetal with Broken Inversion Symmetry**<br>
 *Zhenyu Wang, Jorge Olivares Rodriguez, Hiromasa Namiki, Vivek Pareek, Keshav Dani, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>

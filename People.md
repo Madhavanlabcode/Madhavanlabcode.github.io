@@ -16,9 +16,9 @@ aside: false
 ### Postdocs
 ---
 
-| ![image](/_img/People/Leena.png "Leena Aggarwal"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Leena Aggarwal</span> |leena7ATillinois.edu|
 | ![image](/_img/People/Seokjin.jpg "Seokjin Bae"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Seokjin Bae</span> |sjbaeATillinois.edu|
 | ![image](/_img/People/Mike.jpg "Michael Altvater"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Michael Altvater</span> |altvaterATillinois.edu|
+| ![image](/_img/People/Yuqing.jpg "Yuqing Xing"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yuqing Xing</span> |yqxingATillinois.edu|
 
 ---
 
@@ -26,12 +26,13 @@ aside: false
 
 ---
 
-| ![image](/_img/People/Charlie.jpg "Charlie Steiner"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Charlie Steiner</span> |csteine2ATillinois.edu|
 | ![image](/_img/People/Eugene.jpg "Eugene Ark"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Eugene Ark</span> |ark3ATillinois.edu|
 | ![image](/_img/People/Jorge.jpg "Jorge Olivares Rodriguez"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Jorge Olivares Rodriguez</span> |jorgeo2ATillinois.edu|
 | ![image](/_img/People/Anuva.jpg "Anuva Aishwarya"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Anuva Aishwarya</span> |anuvaa2ATillinois.edu|
 | ![image](/_img/People/Rachel.jpg "Rachel Birchmier"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Rachel Birchmier</span> |rlb5ATillinois.edu|
 | ![image](/_img/People/Arjun.jpg "Arjun Raghavan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> |arjunr3ATillinois.edu|
+| ![image](/_img/People/Marisa.jpg "Marisa Romanelli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Marisa Romanelli</span> |marisar2ATillinois.edu|
+| ![image](/_img/People/Joy.jpg "Yun-Tzu Hsu"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yun-Tzu Hsu</span> |yuntzuh2ATillinois.edu|
 
 ---
 
@@ -48,6 +49,8 @@ aside: false
 ### Past Group Members
 
 ---
+| ![image](/_img/People/Leena.png "Leena Aggarwal"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Leena Aggarwal</span> |leena7ATillinois.edu|<br>
+| ![image](/_img/People/Charlie.jpg "Charlie Steiner, PhD"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Charlie Steiner, PhD</span> |csteine2ATillinois.edu|<br>
 | ![image](/_img/People/Guannan.jpg "Guannan Chen, PhD - now at ASM America"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Guannan Chen, PhD - now at ASM America</span> |gchen37ATillinois.edu|<br>
 | ![image](/_img/People/Davide.jpg "Davide Iaia, PhD - now at Lam Research"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Davide Iaia, PhD - now at Lam Research</span> |diaia2ATillinois.edu|<br>
 | ![image](/_img/People/Lin.jpg "Lin Jiao - now Research Faculty at Florida State University National High Magnetic Field Laboratory"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Lin Jiao - now Research Faculty at Florida State University National High Magnetic Field Laboratory</span> |lin.jiaoATmagnet.fsu.edu|<br>

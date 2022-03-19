@@ -10,7 +10,11 @@ aside: false
 ### 2022
 
 ---
-**Observation of Near E<sub>F</sub> Fermi-Arc van Hove Singularity with Prominent Coupling to Phonon in a van der Waals Coupled Weyl Semimetal**<br>
+**Nanoscale Studies of Electric Field Effects on Monolayer 1T'-WTe<sub>2</sub>**<br>
+*Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Sweich, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
+[npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x)
+
+**Observation of a van Hove Singularity of a Surface Fermi Arc with Prominent Coupling to Phonons in a Weyl Semimetal**<br>
 *Z. Wang (+), Cheng-Yi Huang (+), Chia-Hsiu Hsu (+), Hiromasa Namiki, Tay-Rong Chang, Feng-Chuan Chuang, H. Lin, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
 [Phys. Rev. B 105, 075100 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.075110)
 
@@ -21,7 +25,7 @@ aside: false
 ---
 **Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
 *Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
-[arXiv:2110.02238](https://arxiv.org/pdf/2110.02238.pdf)
+[arXiv:2110.02238](https://arxiv.org/abs/2110.02238)
 
 **Visualizing Superconductivity in a Doped Weyl Semimetal with Broken Inversion Symmetry**<br>
 *Zhenyu Wang, Jorge Olivares Rodriguez, Hiromasa Namiki, Vivek Pareek, Keshav Dani, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
@@ -52,10 +56,6 @@ aside: false
 ### 2020
 
 ---
-**Electric Field Effects on the Band Gap and Edge States of Monolayer 1T'-WTe<sub>2</sub>** <br>
-*Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Swiech, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
-[arXiv:2011.10096](https://arxiv.org/abs/2011.10096)
-
 **Correlating Structural, Electronic, and Magnetic Properties of Epitaxial VSe<sub>2</sub> Thin Films** <br>
 *Guannan Chen, Sean T. Howard, Aniceto B. Maghirang III, Kien Nguyen Cong, Kehan Cai, Somesh C. Ganguli, Waclaw Sweich, Emilia Morosan, Ivan I. Oleynik, Feng-Chuan Chuang, Hsin Lin, Vidya Madhavan* <br>
 [Phys. Rev. B - Editors' Suggestion 102, 115149 (2020)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.115149)

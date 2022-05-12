@@ -1,8 +1,8 @@
 ---
-title:  "Anuva is a PPG-MRL Fellow!"
-date:   2020-07-06 08:30:00 -0500
+title:  "Arjun receives Scott Anderson Award!"
+date:   2022-05-22 08:20:00 -0500
 categories:
   - People
 ---
 
-Anuva Aishwarya has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulations to Anuva!
+Arjun Raghavan has won a Scott Anderson Graduate Research Assistant Award from the Dept. of Physics for the 2021-2022 academic year; congratulations to Arjun!

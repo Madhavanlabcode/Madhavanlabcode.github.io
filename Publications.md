@@ -10,6 +10,10 @@ aside: false
 ### 2022
 
 ---
+**Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
+*Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
+[Phys. Rev. Mater. 6, 044201 (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.044201)
+
 **Nanoscale Studies of Electric Field Effects on Monolayer 1T'-WTe<sub>2</sub>**<br>
 *Yulia Maximenko, Yueqing Chang, Guannan Chen, Mark R. Hirsbrunner, Waclaw Sweich, Taylor L. Hughes, Lucas K. Wagner, Vidya Madhavan*<br>
 [npj Quantum Mater. 7, 29 (2022)](https://www.nature.com/articles/s41535-022-00433-x)
@@ -46,10 +50,6 @@ aside: false
 **Metal-to-Insulator Transition in Pt-Doped TiSe<sub>2</sub> Driven by Emergent Network of Narrow Transport Channels**<br>
 *Kyungmin Lee, Jesse Choe, Davide Iaia, Juqiang Li, Ming Shi, Junzhang Ma, Mengyu Yao, Zhenyu Wang, Chien-Lung Huang, Masayuki Ochi, Ryotaro Arita, Utpal Chatterjee, Emilia Morosan, Vidya Madhavan, Nandini Trivedi*<br>
 [npj Quantum Mater. 6, 8 (2021)](https://www.nature.com/articles/s41535-020-00305-2)
-
-**Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
-*Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
-[arXiv:2101.05166](https://arxiv.org/abs/2101.05166)
 
 ---
 

@@ -12,6 +12,10 @@ image_sliders:
 ## Recent News
 ---
 
+### *APS Talks and Awards*
+
+Congratulations to Seokjin, Anuva, Rachel, and Arjun on completing presenting talks at the 2022 American Physical Society March Meeting! Also, congratulations to Arjun on receiving the Scott Anderson Graduate Assistant Award for 2022!
+
 ### *Guannan's Thesis Defense*
 
 Congratulations to Guannan on completing her PhD Thesis Defense, Scanning Tunneling Microscopy and Spectroscopy Study on Layered Transition Metal Chalcogenides Thin Films Tuned by Thickness, Structural Phase, and Heterostructure!

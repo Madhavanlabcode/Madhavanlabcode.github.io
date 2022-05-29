@@ -14,7 +14,7 @@ image_sliders:
 
 ### *APS Talks and Awards*
 
-Congratulations to Seokjin, Anuva, Rachel, and Arjun on completing presenting talks at the 2022 American Physical Society March Meeting! Also, congratulations to Arjun on receiving the Scott Anderson Graduate Assistant Award for 2022!
+Congratulations to Seokjin, Anuva, Rachel, and Arjun on presenting talks at the 2022 American Physical Society March Meeting! Also, congratulations to Arjun on receiving the Scott Anderson Graduate Assistant Award for 2022!
 
 ### *Guannan's Thesis Defense*
 
@@ -28,6 +28,16 @@ Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulati
 ## Latest Research
 ---
 
+### *Long-Lifetime Spin Excitations in a Chalcogenide Mott Insulator*
+
+{% include figure.html image="/_img/homepage/TaS2_05292022.png" caption="<center>Long Spin Lifetimes in TaS2</center>" position="left" width="240" height="360" %}  
+
+[Proc. Natl. Acad. Sci. USA  119, 22 (2022)](https://www.pnas.org/doi/10.1073/pnas.2121740119) <br>
+
+Currently, there is an intense ongoing search for 2-level quantum systems with long lifetimes, with important future applications in quantum information science and technology. While conventional platforms have focused on point defects in band insulators and semiconductors, Mott insulators provide an interesting alternative. Applying scanning tunneling microscopy and spectroscopy, we have now shown that long-lifetime spins are hosted at naturally occurring domain walls in the charge density wave Mott insulator 1T-TaS<sub>2. Our spin-polarized, atomic-scale measurements demonstrate excitation lifetimes of up to a few seconds at 300 mK. Overall, our work thus reveals chalcogenide Mott insulators, which can be easily exfoliated and manipulated with lithography techniques, as novel potential platforms for quantum information applications.
+
+---
+
 ### *Signatures of Chiral Spin-Triplet Topological Superconductivity*
 
 {% include figure.html image="/_img/homepage/UTe2_Figure_12282019.png" caption="<center>Chiral In-Gap States in UTe2</center>" position="left" width="240" height="360" %}  
@@ -35,17 +45,6 @@ Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulati
 [Nature  579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2) <br>
 
 Materials with the potential for harboring unconventional spin-triplet pairing superconductivity have attracted significant attention in the condensed matter physics community. Until now, extremely low critical temperatures and superconducting phases buried within a ferromagnetic phase or only appearing at high pressures have hampered efforts to find such materials. However, with a transition temperature of 1.6 K having been recently discovered in the heavy fermion compound UTe<sub>2, the material has presented a new opportunity to investigate possible spin-triplet pairing. Using scanning tunneling microscopy and spectroscopy, our group has found chiral in-gap states in UTe<sub>2, providing direct experimental evidence for chiral spin-triplet topological superconductivity.
-
----
-
-### *Majorana's on the Move*
-
-{% include figure.html image="/_img/homepage/fesete_homepage.png" caption="<center></center>" position="left" width="200" height="300" %}  
-
-[Science  367, 104-108 (2020)](https://science.sciencemag.org/content/367/6473/104/tab-pdf) <br>
-[**Read the Science Perspective!**](https://science.sciencemag.org/content/367/6473/23)
-
-Majorana particles, excitations which are their own anti-particle, have gained much attention for their potential in topological quantum computing. Previously realized as 0D excitations in superconducting vortices, they have also been theorized to exist in 1D inside of topological supercoductors. Recently we have observed the signature of 1D Majorana modes at domain walls in FeSe<sub>0.45</sub>Te<sub>0.55</sub>, where a π phase shift in the superconducting order parameter hosts these exotic states.
 
 <br>
 <br>

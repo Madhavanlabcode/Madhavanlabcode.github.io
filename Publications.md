@@ -10,6 +10,10 @@ aside: false
 ### 2022
 
 ---
+**Long-Lifetime Spin Excitations near Domain Walls in 1T-TaS<sub>2</sub>**  
+*Anuva Aishwarya, Arjun Raghavan, Sean Howard, Zhuozhen Cai, Gohil S. Thakur, Choongjae Won, Sang-Wook Cheong, Claudia Felser, Vidya Madhavan*  
+[Proc. Natl. Acad. Sci. USA 119, 22 (2022)](https://www.pnas.org/doi/10.1073/pnas.2121740119)
+
 **Observation of a Tunable Isolated Dirac Point in Ge(Bi<sub>x</sub>Sb<sub>1-x</sub>)<sub>2</sub>Te<sub>4</sub>**<br>
 *Sean Howard, Arjun Raghavan, Davide Iaia, Caizhi Xu, David Flötotto, Man-Hong Wong, Sung-Kwan Mo, Bahadur Singh, Raman Sankar, Hsin Lin, Tai-Chang Chiang, Vidya Madhavan*<br>
 [Phys. Rev. Mater. 6, 044201 (2022)](https://journals.aps.org/prmaterials/abstract/10.1103/PhysRevMaterials.6.044201)
@@ -92,10 +96,6 @@ aside: false
 **Dirac Nodal Arc Semimetal PtSn<sub>4</sub>: An Ideal Platform for Understanding Surface Properties and Catalysis for Hydrogen Evolution**<br>
 *Guowei Li (+), Chenguang Fu (+), Wujun Shi (+), Lin Jiao, Jiquan Wu, Qun Yang, Rana Saha, Machteld E. Kamminga, Abhay K. Srivastava, Enke Liu, Aliza N. Yazdani, Nitesh Kumar, Jian Zhang, Graeme R. Blake, Xianjie Liu, Mats Fahlman, Steffen Wirth, Gudrun Auffermann, Johannes Gooth, Stuart Parkin, Vidya Madhavan, Xinliang Feng, Yan Sun (++), Claudia Felser (++)*<br>
 [Angew. Chem. 58, (37) 13107-13112 (2019)](https://onlinelibrary.wiley.com/doi/10.1002/anie.201906109)
-
-**Visualizing 1D Zigzag Wigner Crystallization at Domain Walls in the Mott Insulator TaS<sub>2</sub>**  
-*Anuva Aishwarya (+), Sean Howard (+), Bikash Padhi, Lihai Wang, Sang-Wook Cheong, Philip W. Phillips, Vidya Madhavan*  
-[arXiv:1906.11983](https://arxiv.org/abs/1906.11983)
 
 **Topological nature of step edge states on the surface of topological crystalline insulator Pb<sub>0.7</sub>Sn<sub>0.3</sub>Se**  
 *Davide Iaia, Chang-Yan Wang, Yulia Maximenko, Daniel Walkup, R. Sankar, Fangcheng Chou, Yuan-Ming Lu, Vidya Madhavan*  

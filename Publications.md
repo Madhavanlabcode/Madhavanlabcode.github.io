@@ -10,6 +10,10 @@ aside: false
 ### 2022
 
 ---
+**Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
+*Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
+[Phys. Rev. B Letters 105, L2205504](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L220504)
+
 **Long-Lifetime Spin Excitations near Domain Walls in 1T-TaS<sub>2</sub>**  
 *Anuva Aishwarya, Arjun Raghavan, Sean Howard, Zhuozhen Cai, Gohil S. Thakur, Choongjae Won, Sang-Wook Cheong, Claudia Felser, Vidya Madhavan*  
 [Proc. Natl. Acad. Sci. USA 119, 22 (2022)](https://www.pnas.org/doi/10.1073/pnas.2121740119)
@@ -31,10 +35,6 @@ aside: false
 ### 2021
 
 ---
-**Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
-*Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
-[arXiv:2110.02238](https://arxiv.org/abs/2110.02238)
-
 **Visualizing Superconductivity in a Doped Weyl Semimetal with Broken Inversion Symmetry**<br>
 *Zhenyu Wang, Jorge Olivares Rodriguez, Hiromasa Namiki, Vivek Pareek, Keshav Dani, Takao Sasagawa, Vidya Madhavan (++), Yoshinori Okada (++)*<br>
 [Phys. Rev. B 104, 115102 (2021)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.104.115102)

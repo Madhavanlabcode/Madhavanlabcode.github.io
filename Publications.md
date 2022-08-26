@@ -10,9 +10,17 @@ aside: false
 ### 2022
 
 ---
+**Magnetic-Field Sensitive Charge Density Wave Orders in the Superconducting Phase of UTe<sub>2</sub>**<br>
+*Anuva Aishwarya, Julian May-Mann, Arjun Raghavan, Liamei Nie, Marisa Romanelli, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
+[arXiv:2207.09491](https://arxiv.org/abs/2207.09491)
+
 **Shot-Noise and Differential Conductance as Signatures of Putative Topological Superconductivity in FeSe<sub>0.45</sub>Te<sub>0.55</sub>**<br>
 *Ka Ho Wong, Eric Mascot, Vidya Madhavan, Dale J. Van Harlingen, Dirk K. Morr*<br>
-[Phys. Rev. B Letters 105, L2205504](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L220504)
+[Phys. Rev. B Letters 105, L2205504 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.L220504)
+
+**Majorana Fermion Arcs and the Local Density of States in UTe<sub>2</sub>**<br>
+*Yue Yu, Vidya Madhavan, S. Raghu*<br>
+[Phys. Rev. B 105, 174520 (2022)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.105.174520)
 
 **Long-Lifetime Spin Excitations near Domain Walls in 1T-TaS<sub>2</sub>**  
 *Anuva Aishwarya, Arjun Raghavan, Sean Howard, Zhuozhen Cai, Gohil S. Thakur, Choongjae Won, Sang-Wook Cheong, Claudia Felser, Vidya Madhavan*  
@@ -46,10 +54,6 @@ aside: false
 **Evidence for One-Dimensional Chiral Edge States in a Magnetic Weyl Semimetal Co<sub>3</sub>Sn<sub>2</sub>S<sub>2</sub>**<br>
 *Sean Howard, Lin Jiao, Zhenyu Wang, Noam Morali, Rajib Batabyal, Pranab Kumar-Nag, Nurit Avraham, Haim Beidenkopf, Praveen Vir, Enke Liu, Chandra Shekhar, Claudia Felser, Taylor Hughes, Vidya Madhavan*<br>
 [Nat. Commun. 12, 4269 (2021)](https://www.nature.com/articles/s41467-021-24561-3)
-
-**Majorana Fermion Arcs and the Local Density of States of UTe<sub>2</sub>**<br>
-*Yue Yu, Vidya Madhavan, S. Raghu*<br>
-[arXiv:2107.04621](https://arxiv.org/abs/2107.04621)
 
 **Metal-to-Insulator Transition in Pt-Doped TiSe<sub>2</sub> Driven by Emergent Network of Narrow Transport Channels**<br>
 *Kyungmin Lee, Jesse Choe, Davide Iaia, Juqiang Li, Ming Shi, Junzhang Ma, Mengyu Yao, Zhenyu Wang, Chien-Lung Huang, Masayuki Ochi, Ryotaro Arita, Utpal Chatterjee, Emilia Morosan, Vidya Madhavan, Nandini Trivedi*<br>

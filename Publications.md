@@ -10,6 +10,10 @@ aside: false
 ### 2022
 
 ---
+**Spin-Selective Tunneling from Nanowires of the Candidate Topological Kondo Insulator SmB<sub>6</sub>**<br>
+*Anuva Aishwarya, Zhuozhen Cai, Arjun Raghavan, Marisa Romanelli, Xiaoyu Wang, Xu Li, G.D. Gu, Mark Hirsbrunner, Taylor Hughes, Fei Liu (++), Lin Jiao (++), Vidya Madhavan (++)*<br>
+[Science 377, 1218-1222 (2022)](https://www.science.org/doi/10.1126/science.abj8765)
+
 **Magnetic-Field Sensitive Charge Density Wave Orders in the Superconducting Phase of UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Arjun Raghavan, Liamei Nie, Marisa Romanelli, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [arXiv:2207.09491](https://arxiv.org/abs/2207.09491)

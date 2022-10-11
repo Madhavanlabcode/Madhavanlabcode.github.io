@@ -30,6 +30,16 @@ Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulati
 ## Latest Research Highlights
 ---
 
+### *Spin-Selective Tunneling from a Nanowire STM Tip*
+
+{% include figure.html image="/_img/homepage/SmB6_Website_09252022.png" caption="<center>Spin-Selective Tunneling from SmB6 Nanowires</center>" position="left" width="240" height="360" %}  
+
+[Science 377, 1218-1222 (2022)](https://www.science.org/doi/10.1126/science.abj8765) <br>
+
+Since the discovery of topological insulators (TIs), a variety of applications have been proposed. One of the important characteristics which TIs exhibit is spin-momentum locking, in which the spin of an electron depends on the direction in which it is traveling.  By fabricating nanowire tips with the putative Kondo TI SmB<sub>6, we have been able to observe spin-polarized tunneling with a non-magnetic tip on to the surface of the antiferromagnet FeTe. This novel technique will help pave the way for a number of cutting-edge applications with topological insulators.
+
+---
+
 ### *Long-Lifetime Spin Excitations in a Chalcogenide Mott Insulator*
 
 {% include figure.html image="/_img/homepage/TaS2_05292022.png" caption="<center>Long Spin Lifetimes in TaS2</center>" position="left" width="240" height="360" %}  
@@ -37,16 +47,6 @@ Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulati
 [Proc. Natl. Acad. Sci. USA  119, 22 (2022)](https://www.pnas.org/doi/10.1073/pnas.2121740119) <br>
 
 Currently, there is an intense ongoing search for 2-level quantum systems with long lifetimes, with important future applications in quantum information science and technology. While conventional platforms have focused on point defects in band insulators and semiconductors, Mott insulators provide an interesting alternative. Applying scanning tunneling microscopy and spectroscopy, we have now shown that long-lifetime spins are hosted at naturally occurring domain walls in the charge density wave Mott insulator 1T-TaS<sub>2. Our spin-polarized, atomic-scale measurements demonstrate excitation lifetimes of up to a few seconds at 300 mK. Overall, our work thus reveals chalcogenide Mott insulators, which can be easily exfoliated and manipulated with lithography techniques, as novel potential platforms for quantum information applications.
-
----
-
-### *Signatures of Chiral Spin-Triplet Topological Superconductivity*
-
-{% include figure.html image="/_img/homepage/UTe2_Figure_12282019.png" caption="<center>Chiral In-Gap States in UTe2</center>" position="left" width="240" height="360" %}  
-
-[Nature  579, 523-527 (2020)](https://www.nature.com/articles/s41586-020-2122-2) <br>
-
-Materials with the potential for harboring unconventional spin-triplet pairing superconductivity have attracted significant attention in the condensed matter physics community. Until now, extremely low critical temperatures and superconducting phases buried within a ferromagnetic phase or only appearing at high pressures have hampered efforts to find such materials. However, with a transition temperature of 1.6 K having been recently discovered in the heavy fermion compound UTe<sub>2, the material has presented a new opportunity to investigate possible spin-triplet pairing. Using scanning tunneling microscopy and spectroscopy, our group has found chiral in-gap states in UTe<sub>2, providing direct experimental evidence for chiral spin-triplet topological superconductivity.
 
 <br>
 <br>

@@ -11,8 +11,8 @@ aside: false
 
 ---
 **Evidence for a Robust Sign-Changing S-Wave Order Parameter in Monolayer Films of Superconducting Fe(Se,Te)/Bi<sub>2</sub>Te<sub>3</sub>**<br>
-*Guannan Chen (+), Anuva Aishwarya (+), Mark R. Hirsbrunner, Jorge Olivares Rodriguez, Lin Jiao, Lianyang Dong, Nadya Mason, Dale Van Harlingen, John Harter, Stephen Wilson, Taylor L. Hughes, Vidya Madhavan*<br>
-[arXiv:2209.04982](https://arxiv.org/abs/2209.04982)
+*Guannan Chen (+), Anuva Aishwarya (+), Mark R. Hirsbrunner, Jorge Olivares Rodriguez, Lin Jiao, Lianyang Dong, Nadya Mason, Dale Van Harlingen, John Harter, Stephen D. Wilson, Taylor L. Hughes, Vidya Madhavan*<br>
+[npj Quantum Mater. 7, 110 (2022)](https://www.nature.com/articles/s41535-022-00513-y)
 
 **Spin-Selective Tunneling from Nanowires of the Candidate Topological Kondo Insulator SmB<sub>6</sub>**<br>
 *Anuva Aishwarya, Zhuozhen Cai, Arjun Raghavan, Marisa Romanelli, Xiaoyu Wang, Xu Li, G.D. Gu, Mark Hirsbrunner, Taylor Hughes, Fei Liu (++), Lin Jiao (++), Vidya Madhavan (++)*<br>

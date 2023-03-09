@@ -18,7 +18,7 @@ aside: false
 
 | ![image](/_img/People/Seokjin.jpg "Seokjin Bae"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Seokjin Bae</span> |sjbaeATillinois.edu|
 | ![image](/_img/People/Yuqing.jpg "Yuqing Xing"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yuqing Xing</span> |yqxingATillinois.edu|
-| ![image](/_img/People/Avior.jpg "Avior Elmualem"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Avior Elmualem</span> |aviorATillinois.edu|
+| ![image](/_img/People/Avior.jpg "Avior Almoalem"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Avior Almoalem</span> |aviorATillinois.edu|
 | ![image](/_img/People/Zhen.jpg "Zhen Zhu"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Zhen Zhu</span> |zhenzhuATillinois.edu|
 
 ---

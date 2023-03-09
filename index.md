@@ -11,10 +11,15 @@ image_sliders:
 
 ## Recent News
 ---
+### *Jorge's Thesis Defense*
+
+Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
+
 ### *Anuva Wins Wayne B. Nottingham Prize!*
+
 Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wayne_B._Nottingham_Prize) at the 2022 Physical Electronics Conference in Chicago; congratulations, Anuva!
 
-### *APS Talks and Awards*
+### *APS Talks and Awards 2022*
 
 Congratulations to Seokjin, Anuva, Rachel, and Arjun on presenting talks at the 2022 American Physical Society March Meeting! Also, congratulations to Arjun on receiving a Scott Anderson Outstanding Graduate Assistant Award for 2022!
 

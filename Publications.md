@@ -7,6 +7,15 @@ aside: false
 ---
 ---
 
+### 2023
+
+---
+**Anomalous Hall Conductivity and Nernst Effect of the Ideal Weyl Semimetallic Ferromagnetic EuCd<sub>2</sub>As<sub>2</sub>**<br>
+*Subhajit Roychowdhury (+)(++), Mengyu Yao (+), Kartik Samanta (+), Seokjin Bae, Dong Chen, Sailong Ju, Arjun Raghavan, Nitesh Kumar, Procopios Constantinou, Satya N. Guin, Nicholas Clark Plumb, Marisa Romanelli, Horst Borrmann, Maia G. Vergniory, Vladimir N. Strocov, Vidya Madhavan, Chandra Shekhar, Claudia Felser (++)* <br>
+[Adv. Sci. 2207121 (2023)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207121)
+
+---
+
 ### 2022
 
 ---

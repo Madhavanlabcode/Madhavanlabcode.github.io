@@ -41,7 +41,8 @@ aside: false
 ---
 
 Jialun Ge <br>
-Jack Granat
+Jack Granat <br>
+Jessie Wei
 
 
 ---

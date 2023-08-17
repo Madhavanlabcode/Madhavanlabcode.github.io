@@ -10,6 +10,10 @@ aside: false
 ### 2023
 
 ---
+**Optical Manipulation of the Charge Density Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
+*Yuqing Xing, Seokjin Bae, Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
+[arXiv:2308.04128](https://arxiv.org/abs/2308.04128)
+
 **Magnetic-Field Sensitive Charge Density Wave Orders in the Superconducting Phase of UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Arjun Raghavan, Liamei Nie, Marisa Romanelli, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [Nature 618, 918-923 (2023)](https://www.nature.com/articles/s41586-023-06005-8)
@@ -17,7 +21,6 @@ aside: false
 **Visualizing the Melting of the Charge Density Wave in  UTe<sub>2</sub> by Generation of Pairs of Topological Defects with Opposite Winding**<br>
 *Anuva Aishwarya, Julian May-Mann, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [arXiv:2306.09423](https://arxiv.org/abs/2306.09423)
-
 
 **Anomalous Hall Conductivity and Nernst Effect of the Ideal Weyl Semimetallic Ferromagnetic EuCd<sub>2</sub>As<sub>2</sub>**<br>
 *Subhajit Roychowdhury (+)(++), Mengyu Yao (+), Kartik Samanta (+), Seokjin Bae, Dong Chen, Sailong Ju, Arjun Raghavan, Nitesh Kumar, Procopios Constantinou, Satya N. Guin, Nicholas Clark Plumb, Marisa Romanelli, Horst Borrmann, Maia G. Vergniory, Vladimir N. Strocov, Vidya Madhavan, Chandra Shekhar, Claudia Felser (++)* <br>

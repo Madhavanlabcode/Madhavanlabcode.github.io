@@ -11,7 +11,7 @@ aside: false
 
 ---
 **Optical Manipulation of the Charge Density Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
-*Yuqing Xing, Seokjin Bae, Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
+*Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
 [arXiv:2308.04128](https://arxiv.org/abs/2308.04128)
 
 **Magnetic-Field Sensitive Charge Density Wave Orders in the Superconducting Phase of UTe<sub>2</sub>**<br>

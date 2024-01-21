@@ -10,10 +10,13 @@ aside: false
 ### 2023
 
 ---
+**Superconducting Penetration Depth through a Van Hove Singularity: Sr<sub>2</sub>RuO<sub>4</sub> under Uniaxial Stress**<br>
+*Eli Mueller, Yusuke Iguchi, Fabian Jerzembeck, Jorge O. Rodriguez, Marisa Romanelli, Edgar Abarca-Morales, Anastasios Markou, Naoki Kikugawa, Dmitry A. Sokolov, Gwansuk Oh, Clifford W. Hicks, Andrew P. Mackenzie, Yoshiteru Maeno, Vidya Madhavan, Kathryn A. Moler*<br>
+[arXiv:2312.05130](https://arxiv.org/abs/2312.05130)
+
 **Atomic-Scale Visualization of a Cascade of Magnetic Orders in the Layered Antiferromagnet GdTe<sub>3</sub>**<br>
 *Arjun Raghavan (+), Marisa Romanelli (+), Julian May-Mann, Anuva Aishwarya, Leena Aggarwal, Anisha G. Singh, Maja D. Bachmann, Leslie M. Schoop, Eduardo Fradkin, Ian R. Fisher, Vidya Madhavan*<br>
 [arXiv:2308.15691](https://arxiv.org/abs/2308.15691)
-
 
 **Optical Manipulation of the Charge Density Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
 *Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
@@ -29,7 +32,11 @@ aside: false
 
 **Anomalous Hall Conductivity and Nernst Effect of the Ideal Weyl Semimetallic Ferromagnetic EuCd<sub>2</sub>As<sub>2</sub>**<br>
 *Subhajit Roychowdhury (+)(++), Mengyu Yao (+), Kartik Samanta (+), Seokjin Bae, Dong Chen, Sailong Ju, Arjun Raghavan, Nitesh Kumar, Procopios Constantinou, Satya N. Guin, Nicholas Clark Plumb, Marisa Romanelli, Horst Borrmann, Maia G. Vergniory, Vladimir N. Strocov, Vidya Madhavan, Chandra Shekhar, Claudia Felser (++)* <br>
-[Adv. Sci. 2207121 (2023)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207121)
+[Adv. Sci. 10, 2207121 (2023)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207121)
+
+**New Heavy Fermion Superconductors**<br>
+*Jeffrey W. Lynn (++), Vidya Madhavan, Lin Jiao* <br>
+[Front. Electron. Mater. 2, 1120381 (2023)](https://www.frontiersin.org/articles/10.3389/femat.2022.1120381/full)
 
 ---
 

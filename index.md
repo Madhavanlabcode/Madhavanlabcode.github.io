@@ -11,6 +11,10 @@ image_sliders:
 
 ## Recent News
 ---
+### *Anuva's Thesis Defense*
+
+Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the Strongly Correlated Realm of Electrons Using Scanning Tunneling Spectroscopy!
+
 ### *Jorge's Thesis Defense*
 
 Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
@@ -19,20 +23,18 @@ Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Cr
 
 Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wayne_B._Nottingham_Prize) at the 2022 Physical Electronics Conference in Chicago; congratulations, Anuva!
 
-### *APS Talks and Awards 2022*
-
-Congratulations to Seokjin, Anuva, Rachel, and Arjun on presenting talks at the 2022 American Physical Society March Meeting! Also, congratulations to Arjun on receiving a Scott Anderson Outstanding Graduate Assistant Award for 2022!
-
-### *Guannan's Thesis Defense*
-
-Congratulations to Guannan on completing her PhD Thesis Defense, Scanning Tunneling Microscopy and Spectroscopy Study on Layered Transition Metal Chalcogenides Thin Films Tuned by Thickness, Structural Phase, and Heterostructure!
-
-### *2020 Awards*
-
-Anuva has won a PPG-MRL Fellowship for the 2020-2021 academic year; congratulations to Anuva! Guannan has won the [Scott Anderson Outstanding Graduate Assistant Award](https://physics.illinois.edu/people/honors-and-awards/graduate-awards.asp) for 2020 from the UIUC Dept. of Physics; congratulations, Guannan! Undergraduates Zhuozhen Cai and Will Jing have also received Summer 2020 research awards. Zhuozhen received a 2020 Lorella M. Jones Undergraduate Summer Research Award and LAS James Scholar Preble Research Fellowship; Will was awarded a Research Support Grant (RSG) sponsored by the Office of Undergraduate Research (OUR)! And, Rachel Birchmier has received a prestigious [NDSEG Fellowship](https://ndseg.asee.org/) from the US Department of Defense for 2020! Read the [Blog](http://madhavanlab.org/blog/) for more news from the Madhavan Lab.
-
 ---
 ## Latest Research Highlights
+---
+
+### *Charge-Density-Waves Sensitive to Magnetic Fields in UTe<sub>2</sub>*
+
+{% include figure.html image="/_img/homepage/UTe2_Figure_01202024.png" caption="<center>Magnetic Field Dependent Charge-Density-Waves in UTe2</center>" position="left" width="240" height="360" %}  
+
+[Nature 618, 918-923 (2023)](https://www.nature.com/articles/s41586-023-06005-8) <br>
+
+We have found evidence for an unusual charge-density-wave order in the heavy-fermion, spin-triplet superconductor UTe<sub>2. This interesting CDW is incommensurate and weakens in intensity with increasing magnetic field. In collaboration with theorists, we have constructed a Ginzburg-Landau model for a uniform spin-triplet superconductor which coexists with three triplet pair-density-wave states. Our theory then gives rise to daughter CDWs which would be sensitive to magnetic field due to their origins in pair-density-wave states. Our paper is published along with 3 other reports of pair-density waves measured by STM, as described in this [Nature News & Views article](https://www.nature.com/articles/d41586-023-01996-w).
+
 ---
 
 ### *Spin-Selective Tunneling from a Nanowire STM Tip*

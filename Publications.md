@@ -10,7 +10,9 @@ aside: false
 ### 2024
 
 ---
-**Testing**
+**Melting of the Charge Density Wave by Generation of Pairs of Topological Defects in UTe<sub>2</sub>**<br>
+*Anuva Aishwarya, Julian May-Mann, Avior Almoalem, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
+[Nat. Phys. (2024)](https://www.nature.com/articles/s41567-024-02429-9)
 
 ---
 

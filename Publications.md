@@ -39,10 +39,6 @@ aside: false
 *Anuva Aishwarya, Julian May-Mann, Arjun Raghavan, Liamei Nie, Marisa Romanelli, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [Nature 618, 918-923 (2023)](https://www.nature.com/articles/s41586-023-06005-8)
 
-**Visualizing the Melting of the Charge Density Wave in  UTe<sub>2</sub> by Generation of Pairs of Topological Defects with Opposite Winding**<br>
-*Anuva Aishwarya, Julian May-Mann, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
-[arXiv:2306.09423](https://arxiv.org/abs/2306.09423)
-
 **Anomalous Hall Conductivity and Nernst Effect of the Ideal Weyl Semimetallic Ferromagnetic EuCd<sub>2</sub>As<sub>2</sub>**<br>
 *Subhajit Roychowdhury (+)(++), Mengyu Yao (+), Kartik Samanta (+), Seokjin Bae, Dong Chen, Sailong Ju, Arjun Raghavan, Nitesh Kumar, Procopios Constantinou, Satya N. Guin, Nicholas Clark Plumb, Marisa Romanelli, Horst Borrmann, Maia G. Vergniory, Vladimir N. Strocov, Vidya Madhavan, Chandra Shekhar, Claudia Felser (++)* <br>
 [Adv. Sci. 10, 2207121 (2023)](https://onlinelibrary.wiley.com/doi/10.1002/advs.202207121)

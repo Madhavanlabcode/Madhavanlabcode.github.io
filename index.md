@@ -27,6 +27,16 @@ Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wa
 ## Latest Research Highlights
 ---
 
+### *Optical Manipulation of Charge Order in RbV<sub>3</sub>Sb<sub>5</sub> Visualized by STM*
+
+{% include figure.html image="/_img/homepage/UTe2_Figure_01202024.png" caption="<center>Magnetic Field Dependent Charge-Density-Waves in UTe2</center>" position="left" width="240" height="360" %}  
+
+[Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5) <br>
+
+We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we have This interesting CDW is incommensurate and weakens in intensity with increasing magnetic field. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and oribtal loop currents. Our laser STM data opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
+
+---
+
 ### *Charge-Density-Waves Sensitive to Magnetic Fields in UTe<sub>2</sub>*
 
 {% include figure.html image="/_img/homepage/UTe2_Figure_01202024.png" caption="<center>Magnetic Field Dependent Charge-Density-Waves in UTe2</center>" position="left" width="240" height="360" %}  
@@ -44,16 +54,6 @@ We have found evidence for an unusual charge-density-wave order in the heavy-fer
 [Science 377, 1218-1222 (2022)](https://www.science.org/doi/10.1126/science.abj8765) <br>
 
 Since the discovery of topological insulators (TIs), a variety of applications have been proposed. One of the important characteristics which TIs exhibit is spin-momentum locking, in which the spin of an electron depends on the direction in which it is traveling.  By fabricating nanowire tips with the putative Kondo TI SmB<sub>6, we have been able to observe spin-polarized tunneling with a non-magnetic tip on to the surface of the antiferromagnet FeTe. This novel technique will help pave the way for a number of cutting-edge applications with topological insulators.
-
----
-
-### *Long-Lifetime Spin Excitations in a Chalcogenide Mott Insulator*
-
-{% include figure.html image="/_img/homepage/TaS2_05292022.png" caption="<center>Long Spin Lifetimes in TaS2</center>" position="left" width="240" height="360" %}  
-
-[Proc. Natl. Acad. Sci. USA  119, 22 (2022)](https://www.pnas.org/doi/10.1073/pnas.2121740119) <br>
-
-Currently, there is an intense ongoing search for 2-level quantum systems with long lifetimes, with important future applications in quantum information science and technology. While conventional platforms have focused on point defects in band insulators and semiconductors, Mott insulators provide an interesting alternative. Applying scanning tunneling microscopy and spectroscopy, we have now shown that long-lifetime spins are hosted at naturally occurring domain walls in the charge density wave Mott insulator 1T-TaS<sub>2. Our spin-polarized, atomic-scale measurements demonstrate excitation lifetimes of up to a few seconds at 300 mK. Overall, our work thus reveals chalcogenide Mott insulators, which can be easily exfoliated and manipulated with lithography techniques, as novel potential platforms for quantum information applications.
 
 <br>
 <br>

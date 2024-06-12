@@ -33,7 +33,7 @@ Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wa
 
 [Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5) <br>
 
-We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we have This interesting CDW is incommensurate and weakens in intensity with increasing magnetic field. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and oribtal loop currents. Our laser STM data opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
+We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and oribtal loop currents. Our laser STM technique opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
 
 ---
 

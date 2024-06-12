@@ -27,7 +27,7 @@ Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wa
 ## Latest Research Highlights
 ---
 
-### *Optical Manipulation of Charge Order in RbV<sub>3</sub>Sb<sub>5</sub> Visualized by STM*
+### *Optical Manipulation of Charge Order in RbV<sub>3</sub>Sb<sub>5</sub> Visualized by Laser STM*
 
 {% include figure.html image="/_img/homepage/UTe2_Figure_01202024.png" caption="<center>Magnetic Field Dependent Charge-Density-Waves in UTe2</center>" position="left" width="240" height="360" %}  
 

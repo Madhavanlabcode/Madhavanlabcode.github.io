@@ -32,6 +32,8 @@ aside: false
 | ![image](/_img/People/Arjun.jpg "Arjun Raghavan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> |arjunr3ATillinois.edu|
 | ![image](/_img/People/Marisa.jpg "Marisa Romanelli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Marisa Romanelli</span> |marisar2ATillinois.edu|
 | ![image](/_img/People/Joy.jpg "Yun-Tzu Hsu"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yun-Tzu Hsu</span> |yuntzuh2ATillinois.edu|
+| ![image](/_img/People/Kaiming.jpg "Kaiming Liu"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Kaiming Liu</span> |kl54ATillinois.edu|
+| ![image](/_img/People/Miles.jpg "Miles Knudtson"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Miles Knudtson</span> |mk109ATillinois.edu|
 
 ---
 

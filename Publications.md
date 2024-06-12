@@ -10,6 +10,10 @@ aside: false
 ### 2024
 
 ---
+**Optical Manipulation of the Charge-Density-Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
+*Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
+[Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5)
+
 **Atomic-Scale Visualization of a Cascade of Magnetic Orders in the Layered Antiferromagnet GdTe<sub>3</sub>**<br>
 *Arjun Raghavan (+), Marisa Romanelli (+), Julian May-Mann, Anuva Aishwarya, Leena Aggarwal, Anisha G. Singh, Maja D. Bachmann, Leslie M. Schoop, Eduardo Fradkin, Ian R. Fisher, Vidya Madhavan*<br>
 [npj Quantum Mater. 9, 47 (2024)](https://www.nature.com/articles/s41535-024-00660-4)
@@ -30,10 +34,6 @@ aside: false
 **Superconducting Penetration Depth through a Van Hove Singularity: Sr<sub>2</sub>RuO<sub>4</sub> under Uniaxial Stress**<br>
 *Eli Mueller, Yusuke Iguchi, Fabian Jerzembeck, Jorge O. Rodriguez, Marisa Romanelli, Edgar Abarca-Morales, Anastasios Markou, Naoki Kikugawa, Dmitry A. Sokolov, Gwansuk Oh, Clifford W. Hicks, Andrew P. Mackenzie, Yoshiteru Maeno, Vidya Madhavan, Kathryn A. Moler*<br>
 [arXiv:2312.05130](https://arxiv.org/abs/2312.05130)
-
-**Optical Manipulation of the Charge Density Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
-*Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
-[arXiv:2308.04128](https://arxiv.org/abs/2308.04128)
 
 **Magnetic-Field Sensitive Charge Density Wave Orders in the Superconducting Phase of UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Arjun Raghavan, Liamei Nie, Marisa Romanelli, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>

@@ -51,6 +51,10 @@ and optical approach make it ideal for characterization of thin films grown with
 group. Additionally, the electronic connections of this STM were designed to facilitate
 gating of thin films, an important research thrust of the group.
 
+### STM 5:
+![image](/_img/the_lab/STM5.png "STM 5"){:height="1000px" width="600px"}
+
+
 ### MBE 1:
 
 ![image](/_img/the_lab/MBE1.jpg "MBE 1"){:height="1000px" width="600px"}

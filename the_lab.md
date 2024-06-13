@@ -52,7 +52,7 @@ group. Additionally, the electronic connections of this STM were designed to fac
 gating of thin films, an important research thrust of the group.
 
 ### STM 5:
-![image](/_img/the_lab/STM5.png "STM 5"){:height="1000px" width="600px"}
+![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
 
 
 ### MBE 1:

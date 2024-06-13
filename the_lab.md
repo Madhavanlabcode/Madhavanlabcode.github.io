@@ -52,6 +52,7 @@ group. Additionally, the electronic connections of this STM were designed to fac
 gating of thin films, an important research thrust of the group.
 
 ### STM 5: 300mK, 3D magnetic field (1T, 4T, 9T)
+
 ![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
 
 As the newest STM in the Madhavan Lab, STM 5 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively. The STM 5 is currently undergoing the final table balancing work in the other sounderproof room.

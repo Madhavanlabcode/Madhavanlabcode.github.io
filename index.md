@@ -15,13 +15,13 @@ image_sliders:
 
 Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the Strongly Correlated Realm of Electrons Using Scanning Tunneling Spectroscopy!
 
+### *Vidya Elected to American Academy of Arts & Sciences*
+
+Congratulations to Vidya on being elected to the prestigious American Academy of Arts and Sciences for 2023! Vidya is joined by Prof. David Cahill and Prof. Tamer Basar as inductees from the University of Illinois Urbana-Champaign this year!
+
 ### *Jorge's Thesis Defense*
 
 Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
-
-### *Anuva Wins Wayne B. Nottingham Prize!*
-
-Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wayne_B._Nottingham_Prize) at the 2022 Physical Electronics Conference in Chicago; congratulations, Anuva!
 
 ---
 ## Latest Research Highlights
@@ -33,7 +33,7 @@ Anuva has won the [Wayne B. Nottingham Prize](https://en.m.wikipedia.org/wiki/Wa
 
 [Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5) <br>
 
-We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and oribtal loop currents. Our laser STM technique opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
+We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and orbital loop currents. Our laser STM technique opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
 
 ---
 

@@ -55,7 +55,7 @@ gating of thin films, an important research thrust of the group.
 
 ![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
 
-As the newest STM in the Madhavan Lab, STM 5 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively. The STM 5 is currently undergoing the final table balancing work in the other sounderproof room.
+As the <strong>newest</strong> STM in the Madhavan Lab, STM 5 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively. The STM 5 is currently undergoing the final table balancing work in the other sounderproof room.
 
 ### MBE 1:
 

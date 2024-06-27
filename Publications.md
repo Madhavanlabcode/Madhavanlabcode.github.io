@@ -10,6 +10,10 @@ aside: false
 ### 2024
 
 ---
+**Absence of a Bulk Charge Density Wave Signature in X-Ray Measurements of UTe<sub>2</sub>**<br>
+*Caitlin S. Kengle, Dipanjan Chaudhuri, Xuefei Guo, Thomas A. Johnson, Simon Bettler, Wolfgang Simeth, Matthew J. Krogstad, Zahir Islam, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan, Peter Abbamonte*<br>
+[arXiv:2406.14688](https://arxiv.org/abs/2406.14688)
+
 **Optical Manipulation of the Charge-Density-Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
 *Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>
 [Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5)
@@ -20,7 +24,7 @@ aside: false
 
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
 *Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
-[arXiv:2405:16432](https://arxiv.org/abs/2405.16432)
+[arXiv:2405.16432](https://arxiv.org/abs/2405.16432)
 
 **Melting of the Charge Density Wave by Generation of Pairs of Topological Defects in UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Avior Almoalem, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>

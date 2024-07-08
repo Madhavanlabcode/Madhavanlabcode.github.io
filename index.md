@@ -31,7 +31,7 @@ Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Cr
 
 {% include figure.html image="/_img/homepage/Kagome06122024.png" caption="<center>Optical Manipulation of Charge Order in RbV3Sb5</center>" position="left" width="240" height="360" %}  
 
-[Nature (2024)](https://www.nature.com/articles/s41586-024-07519-5) <br>
+[Nature 631, 60-66 (2024)](https://www.nature.com/articles/s41586-024-07519-5) <br>
 
 We have discovered a novel technique to optically manipulate charge order in the kagome superconductor RbV<sub>3</sub>Sb<sub>5</sub>. Using our unique laser-coupled STM set-up, we apply linearly polarized light along high-symmetry directions and find that the relative intensities of CDW peaks can be reversibly switched. We also find that the CDW order can be manipulated by perpendicular magnetic fields. In collaboration with theorists, we show that the simplest CDW matching our data is an out-of-phase combination of vanadium bond order and orbital loop currents. Our laser STM technique opens doors toward dynamical optical control of complex quantum phenomena in quantum materials.
 

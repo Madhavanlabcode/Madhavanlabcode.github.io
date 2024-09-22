@@ -12,7 +12,7 @@ aside: false
 ---
 **Superconducting Penetration Depth through a Van Hove Singularity: Sr<sub>2</sub>RuO<sub>4</sub> under Uniaxial Stress**<br>
 *Eli Mueller, Yusuke Iguchi, Fabian Jerzembeck, Jorge O. Rodriguez, Marisa Romanelli, Edgar Abarca-Morales, Anastasios Markou, Naoki Kikugawa, Dmitry A. Sokolov, Gwansuk Oh, Clifford W. Hicks, Andrew P. Mackenzie, Yoshiteru Maeno, Vidya Madhavan, Kathryn A. Moler*<br>
-[Phys. Rev. B Letters 110, L100502](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L100502)
+[Phys. Rev. B Letters 110, L100502 (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L100502)
 
 **Absence of a Bulk Charge Density Wave Signature in X-Ray Measurements of UTe<sub>2</sub>**<br>
 *Caitlin S. Kengle, Dipanjan Chaudhuri, Xuefei Guo, Thomas A. Johnson, Simon Bettler, Wolfgang Simeth, Matthew J. Krogstad, Zahir Islam, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan, Peter Abbamonte*<br>

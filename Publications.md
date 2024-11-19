@@ -10,6 +10,10 @@ aside: false
 ### 2024
 
 ---
+**Ultrafast Optical Control of Charge Orders in Kagome Metals**<br>
+*Yu-Ping Lin, Vidya Madhavan, Joel E. Moore*<br>
+[arXiv:2411.10447](https://arxiv.org/abs/2411.10447))
+
 **Absence of a Bulk Signature of a Charge Density Wave in Hard X-Ray Measurements of UTe<sub>2</sub>**<br>
 *Caitlin S. Kengle, Dipanjan Chaudhuri, Xuefei Guo, Thomas A. Johnson, Simon Bettler, Wolfgang Simeth, Matthew J. Krogstad, Zahir Islam, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan, Peter Abbamonte*<br>
 [Phys. Rev. B 110, 145101 (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.145101)

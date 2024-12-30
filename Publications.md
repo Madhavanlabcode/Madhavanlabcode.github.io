@@ -10,6 +10,10 @@ aside: false
 ### 2024
 
 ---
+**Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
+*Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>
+[Nano Lett.](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)
+
 **Ultrafast Optical Control of Charge Orders in Kagome Metals**<br>
 *Yu-Ping Lin, Vidya Madhavan, Joel E. Moore*<br>
 [arXiv:2411.10447](https://arxiv.org/abs/2411.10447)

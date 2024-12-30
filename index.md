@@ -46,7 +46,7 @@ Since the discovery of topological insulators (TIs), a variety of applications h
 ---
 ### *Vidya Invested as Donald Biggar Willett Professor in Engineering*
 
-Vidya was invested as the Donald Biggar Willett Professor in Engineering on 10/29/24. Read more about the investiure at the following link: [https://physics.illinois.edu/news/70216](https://physics.illinois.edu/news/70216)!
+Vidya was invested as the Donald Biggar Willett Professor in Engineering on 10/28/24. Read more about the investiure at the following link: [https://physics.illinois.edu/news/70216](https://physics.illinois.edu/news/70216)!
 
 ### *Anuva's Thesis Defense*
 

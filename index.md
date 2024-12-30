@@ -44,6 +44,10 @@ Since the discovery of topological insulators (TIs), a variety of applications h
 ---
 ## Recent News
 ---
+### *Vidya Invested as Donald Biggar Willett Professor in Engineering*
+
+Vidya was invested as the Donald Biggar Willett Professor in Engineering on 10/29/24. Read more about the investiure at the following link: [https://physics.illinois.edu/news/70216](https://physics.illinois.edu/news/70216)!
+
 ### *Anuva's Thesis Defense*
 
 Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the Strongly Correlated Realm of Electrons Using Scanning Tunneling Spectroscopy!
@@ -51,10 +55,6 @@ Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the
 ### *Vidya Elected to American Academy of Arts & Sciences*
 
 Congratulations to Vidya on being elected to the prestigious American Academy of Arts and Sciences for 2023! Vidya is joined by Prof. David Cahill and Prof. Tamer Basar as inductees from the University of Illinois Urbana-Champaign this year!
-
-### *Jorge's Thesis Defense*
-
-Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
 
 ---
 

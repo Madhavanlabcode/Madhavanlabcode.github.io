@@ -40,6 +40,21 @@ We have found evidence for an unusual charge-density-wave order in the heavy-fer
 
 Since the discovery of topological insulators (TIs), a variety of applications have been proposed. One of the important characteristics which TIs exhibit is spin-momentum locking, in which the spin of an electron depends on the direction in which it is traveling.  By fabricating nanowire tips with the putative Kondo TI SmB<sub>6, we have been able to observe spin-polarized tunneling with a non-magnetic tip on to the surface of the antiferromagnet FeTe. This novel technique will help pave the way for a number of cutting-edge applications with topological insulators.
 
+---
+## Recent News
+---
+### *Anuva's Thesis Defense*
+
+Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the Strongly Correlated Realm of Electrons Using Scanning Tunneling Spectroscopy!
+
+### *Vidya Elected to American Academy of Arts & Sciences*
+
+Congratulations to Vidya on being elected to the prestigious American Academy of Arts and Sciences for 2023! Vidya is joined by Prof. David Cahill and Prof. Tamer Basar as inductees from the University of Illinois Urbana-Champaign this year!
+
+### *Jorge's Thesis Defense*
+
+Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
+
 <br>
 <br>
 

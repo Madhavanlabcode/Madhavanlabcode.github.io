@@ -9,21 +9,6 @@ image_sliders:
 {% include slider.html selector="home_slider" %}  
 <br>  
 
-## Recent News
----
-### *Anuva's Thesis Defense*
-
-Congratulations to Anuva on successfully defending her PhD Thesis, Exploring the Strongly Correlated Realm of Electrons Using Scanning Tunneling Spectroscopy!
-
-### *Vidya Elected to American Academy of Arts & Sciences*
-
-Congratulations to Vidya on being elected to the prestigious American Academy of Arts and Sciences for 2023! Vidya is joined by Prof. David Cahill and Prof. Tamer Basar as inductees from the University of Illinois Urbana-Champaign this year!
-
-### *Jorge's Thesis Defense*
-
-Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
-
----
 ## Latest Research Highlights
 ---
 

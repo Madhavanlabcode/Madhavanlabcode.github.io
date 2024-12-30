@@ -10,6 +10,10 @@ aside: false
 ### 2024
 
 ---
+**Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
+*Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
+[Nat. Phys., in press](https://arxiv.org/abs/2405.16432)
+
 **Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
 *Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>
 [Nano Lett.](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)

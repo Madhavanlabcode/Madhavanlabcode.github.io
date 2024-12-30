@@ -8,7 +8,7 @@ image_sliders:
 ---
 {% include slider.html selector="home_slider" %}  
 <br>  
-
+---
 ## Latest Research Highlights
 ---
 

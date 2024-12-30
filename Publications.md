@@ -34,10 +34,6 @@ aside: false
 *Arjun Raghavan (+), Marisa Romanelli (+), Julian May-Mann, Anuva Aishwarya, Leena Aggarwal, Anisha G. Singh, Maja D. Bachmann, Leslie M. Schoop, Eduardo Fradkin, Ian R. Fisher, Vidya Madhavan*<br>
 [npj Quantum Mater. 9, 47 (2024)](https://www.nature.com/articles/s41535-024-00660-4)
 
-**Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
-*Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
-[arXiv:2405.16432](https://arxiv.org/abs/2405.16432)
-
 **Melting of the Charge Density Wave by Generation of Pairs of Topological Defects in UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Avior Almoalem, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [Nat. Phys. 20, 964-969 (2024)](https://www.nature.com/articles/s41567-024-02429-9)

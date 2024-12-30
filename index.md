@@ -55,9 +55,6 @@ Congratulations to Vidya on being elected to the prestigious American Academy of
 
 Congratulations to Jorge on successfully defending his PhD Thesis, Stress and Crystal Imperfections: Tools for the Exploration of Unconventional Superconductivity via Scanning Tunneling Microscopy!
 
-<br>
-<br>
-
 ---
 
 | ![image](/_img/uofi_physics.png){:height="180px" width="180px"} | ![image](/_img/nsf_logo.png){:height="120px" width="120px"} | ![image](/_img/moore_logo.png){:height="120px" width="120px"} | ![image](/_img/doe_logo.png){:height="120px" width="120px"} |  

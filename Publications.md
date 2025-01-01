@@ -24,11 +24,11 @@ aside: false
 
 **Absence of a Bulk Signature of a Charge Density Wave in Hard X-Ray Measurements of UTe<sub>2</sub>**<br>
 *Caitlin S. Kengle, Dipanjan Chaudhuri, Xuefei Guo, Thomas A. Johnson, Simon Bettler, Wolfgang Simeth, Matthew J. Krogstad, Zahir Islam, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan, Peter Abbamonte*<br>
-[Phys. Rev. B 110, 145101 (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.145101)
+[Phys. Rev. B 110, 145101 (2024) (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.145101)
 
 **Superconducting Penetration Depth through a Van Hove Singularity: Sr<sub>2</sub>RuO<sub>4</sub> under Uniaxial Stress**<br>
 *Eli Mueller, Yusuke Iguchi, Fabian Jerzembeck, Jorge O. Rodriguez, Marisa Romanelli, Edgar Abarca-Morales, Anastasios Markou, Naoki Kikugawa, Dmitry A. Sokolov, Gwansuk Oh, Clifford W. Hicks, Andrew P. Mackenzie, Yoshiteru Maeno, Vidya Madhavan, Kathryn A. Moler*<br>
-[Phys. Rev. B Letters 110, L100502 (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L100502)
+[Phys. Rev. B Letters 110, L100502 (2024) (Editors' Suggestion)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.110.L100502)
 
 **Optical Manipulation of the Charge-Density-Wave State in  RbV<sub>3</sub>Sb<sub>5</sub>**<br>
 *Yuqing Xing (+), Seokjin Bae (+), Ethan Ritz, Fan Yang, Turan Birol, Andrea N. Capa Salinas, Brenden R. Ortiz, Stephen D. Wilson, Ziqiang Wang, Rafael Fernandes, Vidya Madhavan*<br>

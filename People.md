@@ -27,7 +27,6 @@ aside: false
 
 ---
 
-| ![image](/_img/People/Eugene.jpg "Eugene Ark"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Eugene Ark</span> |ark3ATillinois.edu|
 | ![image](/_img/People/Rachel.jpg "Rachel Birchmier"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Rachel Birchmier</span> |rlb5ATillinois.edu|
 | ![image](/_img/People/Arjun.jpg "Arjun Raghavan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> |arjunr3ATillinois.edu|
 | ![image](/_img/People/Marisa.jpg "Marisa Romanelli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Marisa Romanelli</span> |marisar2ATillinois.edu|

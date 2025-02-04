@@ -7,17 +7,22 @@ aside: false
 ---
 ---
 
-### 2024
+### 2025
 
 ---
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
 *Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
-[Nat. Phys., in press](https://arxiv.org/abs/2405.16432)
+[Nat. Phys.](https://www.nature.com/articles/s41567-024-02769-6)
 
 **Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
 *Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>
-[Nano Lett.](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)
+[Nano Lett. 25, 41-47 (2025)](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)
 
+---
+
+### 2024
+
+---
 **Ultrafast Optical Control of Charge Orders in Kagome Metals**<br>
 *Yu-Ping Lin, Vidya Madhavan, Joel E. Moore*<br>
 [arXiv:2411.10447](https://arxiv.org/abs/2411.10447)
@@ -138,7 +143,7 @@ aside: false
 [Phys. Rev. Lett. 124, 137402 (2020)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.137402)
 
 **Momentum Resolved Superconducting Energy Gaps of Sr<sub>2</sub>RuO<sub>4</sub> from Quasiparticle Interference Imaging**  
-*Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis, Vidya Madhavan* <br>
+*Rahul Sharma, Stephen D. Edkins, Zhenyu Wang, Andrey Kostin, Chanchal Sow, Yoshiteru Maeno, Andrew P. Mackenzie, J.C. Seamus Davis (++), Vidya Madhavan (++)* <br>
 [Proc. Natl. Acad. Sci. U.S.A. 117, 5222-5227 (2020)](https://www.pnas.org/content/early/2020/02/21/1916463117)
 
 **Evidence for Dispersing 1D Majorana Channels in an Iron-Based Superconductor**  

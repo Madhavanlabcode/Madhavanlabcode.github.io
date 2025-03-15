@@ -12,7 +12,7 @@ aside: false
 ---
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
 *Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
-[Nat. Phys. (2025)](https://www.nature.com/articles/s41567-024-02769-6)
+[Nat. Phys. 21, 458-463 (2025)](https://www.nature.com/articles/s41567-024-02769-6)
 
 **Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
 *Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>

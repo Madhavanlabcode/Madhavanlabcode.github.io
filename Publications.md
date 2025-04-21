@@ -11,7 +11,7 @@ aside: false
 
 ---
 **Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy**<br>
-*Arjun Raghavan, Seokjin Bae, Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
+*Arjun Raghavan (+), Seokjin Bae (+), Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
 [arXiv:2504.13280](https://arxiv.org/abs/2504.13280)
 
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>

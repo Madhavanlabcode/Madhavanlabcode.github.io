@@ -10,6 +10,10 @@ aside: false
 ### 2025
 
 ---
+**Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy**<br>
+*Arjun Raghavan, Seokjin Bae, Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
+[arXiv:2504.13280](https://arxiv.org/abs/2504.13280)
+
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
 *Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
 [Nat. Phys. 21, 458-463 (2025)](https://www.nature.com/articles/s41567-024-02769-6)

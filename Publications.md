@@ -10,6 +10,10 @@ aside: false
 ### 2025
 
 ---
+**Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
+*Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. hughes, Vidya Madhavan*<br>
+[arXiv:2506.09041](https://arxiv.org/abs/2506.09041)
+
 **Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy**<br>
 *Arjun Raghavan (+), Seokjin Bae (+), Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
 [arXiv:2504.13280](https://arxiv.org/abs/2504.13280)

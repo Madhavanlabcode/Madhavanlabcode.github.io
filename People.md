@@ -36,6 +36,7 @@ aside: false
 | ![image](/_img/People/Tianshi.jpg "Tianshi Zhou"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Tianshi Zhou</span> |tianshi4ATillinois.edu|
 | ![image](/_img/People/August.jpg "August Schwoebel"){:height="244px" width="188px"} |  <span style="font-size:1.5em">August Schwoebel</span> |augusts3ATillinois.edu|
 | ![image](/_img/People/Yudi.jpg "Yudi Huang"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yudi Huang</span> |yudih2ATillinois.edu|
+| ![image](/_img/People/Pooja.jpg "Pooja Sutheeshnan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Pooja Sutheeshnan</span> |poojas4ATillinois.edu|
 
 ---
 

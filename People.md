@@ -37,6 +37,7 @@ aside: false
 | ![image](/_img/People/Yudi.jpg "Yudi Huang"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yudi Huang</span> |yudih2ATillinois.edu|
 | ![image](/_img/People/Pooja.jpg "Pooja Sutheeshnan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Pooja Sutheeshnan</span> |poojas4ATillinois.edu|
 | ![image](/_img/People/Wenrong.jpg "Wenrong Huo"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Wenrong Huo</span> |huo9ATillinois.edu|
+| ![image](/_img/People/Carson.jpg "Carson Gause"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Carson Gause</span> |cngause2ATillinois.edu|
 
 ---
 

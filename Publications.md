@@ -10,6 +10,11 @@ aside: false
 ### 2025
 
 ---
+**Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
+*Seokjin Bae, Arjun Raghavan, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Fahad Mahmood, Ziqiang Wang, Barry Bradlyn, Vidya Madhavan*<br>
+[arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
+
+
 **Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
 *Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>
 [arXiv:2506.09041](https://arxiv.org/abs/2506.09041)

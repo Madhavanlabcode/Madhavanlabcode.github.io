@@ -10,10 +10,13 @@ aside: false
 ### 2025
 
 ---
+**Roadmap on atomically-engineered quantum platforms**<br>
+*Soo-hyon Phark*, Bent Weber*, Yasuo Yoshida*, Patrick R Forrester, Robertus J G Elbertse, Joseph A Stroscio, Hao Wang, Kai Yang, Leo Gross, Shantanu Mishra, Fabian Paschke, Katharina Kaiser, Shadi Fatayer, Jascha Repp, Harry L Anderson, Diego Peña, Florian Albrecht, Franz J Giessibl, Roman Fasel, Joaquín Fernández-Rossier, Shigeki Kawai, Laurent Limot, Nicolás Lorente, Berthold Jäck, Haonan Huang, Joachim Ankerhold, Christian R Ast, Martina Trahms, Clemens B Winkelmann, Katharina J Franke, Martina O Soldini, Glenn Wagner, Titus Neupert, Felix Küster, Souvik Das, Stuart S P Parkin, Paolo Sessi, Zhenyu Wang, Vidya Madhavan, Rupert Huber, Gagandeep Singh, Fabio Donati, Stefano Rusponi, Harald Brune, Eufemio Moreno-Pineda, Mario Ruben, Wolfgang Wernsdorfer, Wantong Huang, Kwan Ho Au-Yeung, Philip Willke, Andreas J Heinrich, Susanne Baumann, Sebastian Loth, Lukas M Veldman, Sander Otte, Christoph Wolf, Lisanne Sellies, Steven R Schofield, Michael E Flatté, Joris G Keizer and Michelle Y Simmons*<br>
+[Nano Futures. 9, 032001 (2025)](https://iopscience.iop.org/article/10.1088/2399-1984/ade6b7)
+
 **Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
 *Seokjin Bae, Arjun Raghavan, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Fahad Mahmood, Ziqiang Wang, Barry Bradlyn, Vidya Madhavan*<br>
 [arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
-
 
 **Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
 *Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>

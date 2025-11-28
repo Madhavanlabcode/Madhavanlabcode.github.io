@@ -27,7 +27,7 @@ thin films grown within the group.
 
 ![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
 
-As the <strong>newest</strong> STM in the Madhavan Lab, STM 2 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively.
+As the <strong>newest</strong> STM in the Madhavan Lab, STM 2 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively. (Built and debugged by Zhen and Kaiming)
 
 ### STM 3: 2K, 7.5T
 

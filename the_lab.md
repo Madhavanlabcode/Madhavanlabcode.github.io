@@ -23,14 +23,11 @@ is capable of taking high-quality low-noise measurements for several days at a t
 Typically used to study cleaved samples, this is STM is also used to examine superconducting
 thin films grown within the group.
 
-### STM 2: 4K
+### STM 2: 300mK, 3D magnetic field (1T, 4T, 9T)
 
-![image](/_img/the_lab/STM2.jpg "STM 2"){:height="1000px" width="600px"}
+![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
 
-Also called the Hybrid STM within the group, this STM is internally praised for
-it's stability and low-noise levels. Operating at liquid helium temperatures and enclosed within a soundproof room atop a tonne of granite,
-this STM has been responsible for some of the group's highest resolution measurements.
-At times this STM has had a small growth chamber attached, giving it the "Hybrid" name.
+As the <strong>newest</strong> STM in the Madhavan Lab, STM 2 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively.
 
 ### STM 3: 2K, 7.5T
 
@@ -51,11 +48,16 @@ and optical approach make it ideal for characterization of thin films grown with
 group. Additionally, the electronic connections of this STM were designed to facilitate
 gating of thin films, an important research thrust of the group.
 
-### STM 5: 300mK, 3D magnetic field (1T, 4T, 9T)
+### STM 5: 4K
 
-![image](/_img/the_lab/STM5.jpg "STM 5"){:height="1000px" width="600px"}
+![image](/_img/the_lab/STM2.jpg "STM 2"){:height="1000px" width="600px"}
 
-As the <strong>newest</strong> STM in the Madhavan Lab, STM 5 features the ability to apply a magnetic field from 3 different directions with 1T, 4T and 9T, respectively. The STM 5 is currently undergoing the final table balancing work in the other sounderproof room.
+Also called the Hybrid STM within the group, this STM is internally praised for
+it's stability and low-noise levels. Operating at liquid helium temperatures and enclosed within a soundproof room atop a tonne of granite,
+this STM has been responsible for some of the group's highest resolution measurements.
+At times this STM has had a small growth chamber attached, giving it the "Hybrid" name.
+
+
 
 ### MBE 1:
 

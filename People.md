@@ -28,7 +28,6 @@ aside: false
 ---
 
 | ![image](/_img/People/Rachel.jpg "Rachel Birchmier"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Rachel Birchmier</span> |rlb5ATillinois.edu|
-| ![image](/_img/People/Arjun.jpg "Arjun Raghavan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Arjun Raghavan</span> |arjunr3ATillinois.edu|
 | ![image](/_img/People/Marisa.jpg "Marisa Romanelli"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Marisa Romanelli</span> |marisar2ATillinois.edu|
 | ![image](/_img/People/Joy.jpg "Yun-Tzu Hsu"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Yun-Tzu Hsu</span> |yuntzuh2ATillinois.edu|
 | ![image](/_img/People/Miles.jpg "Miles Knudtson"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Miles Knudtson</span> |mk109ATillinois.edu|
@@ -54,6 +53,7 @@ Jessie Wei
 ### Past Group Members
 
 ---
+| ![image](/_img/People/Arjun.jpg "Arjun Raghavan, PhD - now Postdoc in Baldini Lab at UT Austin"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Arjun Raghavan, PhD - now Postdoc in Baldini Lab at UT Austin</span> |arjunr3ATillinois.edu|<br>
 | ![image](/_img/People/Anuva.jpg "Anuva Aishwarya, PhD - now Postdoc in Yacoby Lab at Harvard University"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Anuva Aishwarya, PhD - now Postdoc in Yacoby Lab at Harvard University</span> |anuvaa2ATillinois.edu|<br>
 | ![image](/_img/People/Mike.jpg "Michael Altvater, Postdoc at Madhavan Lab - now at UES, Inc."){:height="122px" width="94px"} |  <span style="font-size:1.0em">Michael Altvater, Postdoc at Madhavan Lab - now at UES, Inc.</span> |altvaterATillinois.edu|<br>
 | ![image](/_img/People/Jorge.jpg "Jorge Olivares Rodriguez, PhD - now at Bruker"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Jorge Olivares Rodriguez, PhD - now at Bruker</span> |jorgeo2ATillinois.edu|<br>

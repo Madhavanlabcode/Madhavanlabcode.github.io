@@ -49,8 +49,8 @@ aside: false
 
 ---
 
+| ![image](/_img/People/Danaan.jpg "Danaan Perry"){:height="122px" width="94px"} |  <span style="font-size:1.0em">Danaan Perry</span> |danaanp2@illinois.edu|<br>
 Gavin Cormack <br>
-| ![image](/_img/People/Danaan.jpg "Danaan Perry"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Danaan Perry</span> |danaanp2@illinois.edu|
 
 
 

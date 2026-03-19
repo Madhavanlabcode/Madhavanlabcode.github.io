@@ -36,6 +36,7 @@ aside: false
 | ![image](/_img/People/Pooja.jpg "Pooja Sutheeshnan"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Pooja Sutheeshnan</span> |poojas4ATillinois.edu|
 | ![image](/_img/People/Wenrong.jpg "Wenrong Huo"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Wenrong Huo</span> |huo9ATillinois.edu|
 | ![image](/_img/People/Carson.jpg "Carson Gause"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Carson Gause</span> |cngause2ATillinois.edu|
+| ![image](/_img/People/Ricardo.jpg "Ricardo Aguileta"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Ricardo Aguileta</span> |rra5@illinois.edu|
 | ![image](/_img/People/Inhwan.jpg "Inhwan Lee"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Inhwan Lee</span> |inhwanl2ATillinois.edu|
 | ![image](/_img/People/Jonathan.png "Jonathan Schimmels"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Jonathan Schimmels</span> |jps13ATillinois.edu|
 | ![image](/_img/People/Trent.jpg "Trent La Sage"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Trent La Sage</span> |trentml2ATillinois.edu|
@@ -48,9 +49,9 @@ aside: false
 
 ---
 
-Jialun Ge <br>
-Jack Granat <br>
-Jessie Wei
+Gavin Cormack <br>
+| ![image](/_img/People/Danaan.jpg "Danaan Perry"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Danaan Perry</span> |danaanp2@illinois.edu|
+
 
 
 ---

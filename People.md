@@ -49,9 +49,8 @@ aside: false
 
 ---
 
-Danaan Perry<br>
-Gavin Cormack
-
+| ![image](/_img/People/Gavin.jpg "Gavin Cormack"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Gavin Cormack</span> |gavinfc2@illinois.edu|
+| ![image](/_img/People/Danaan.jpg "Danaan Perry"){:height="244px" width="188px"} |  <span style="font-size:1.5em">Danaan Perry</span> |danaanp2@illinois.edu|
 
 
 ---

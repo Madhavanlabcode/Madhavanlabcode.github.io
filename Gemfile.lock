@@ -22,13 +22,15 @@ GEM
       jekyll-sitemap (~> 0.13)
       jemoji (~> 0.11)
     colorator (1.1.0)
-    commonmarker (0.23.2)
+    commonmarker (0.23.9)
     concurrent-ruby (1.1.9)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     eventmachine (1.2.7-x86-mingw32)
+    ffi (1.15.4)
     ffi (1.15.4-x64-mingw32)
     ffi (1.15.4-x86-mingw32)
     forwardable-extended (2.6.0)
@@ -90,14 +92,14 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
+    mini_portile2 (2.6.1)
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.4)
-    nokogiri (1.12.5-x64-mingw32)
-      racc (~> 1.4)
-    nokogiri (1.12.5-x86-mingw32)
+    nokogiri (1.12.5)
+      mini_portile2 (~> 2.6.1)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -125,6 +127,7 @@ GEM
 PLATFORMS
   x64-mingw32
   x86-mingw32
+  x86_64-linux
 
 DEPENDENCIES
   alembic-jekyll-theme

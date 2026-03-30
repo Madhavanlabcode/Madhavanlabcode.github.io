@@ -7,6 +7,43 @@ aside: false
 ---
 ---
 
+### 2026
+
+---
+**Discovery of intertwined pair density and charge density wave orders in UTe2**<br>
+*Zhen Zhu, Yudi Huang, Julian May-Mann, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Eduardo Fradkin, Vidya Madhavan*<br>
+[arXiv:2603.08688](https://arxiv.org/abs/2603.08688)
+
+**Visualizing the low-energy electronic structure of the triplet superconductor UTe2 through quasiparticle interference**<br>
+*Anuva Aishwarya, Hans Christiansen, Sheng Ran, Nicholas P. Butch, Brian M. Andersen, Andreas Kreisel, Shanta R. Saha, Johnpierre Paglione, Vidya Madhavan*<br>
+[arXiv:2601.02192](https://arxiv.org/abs/2601.02192)
+
+**Axionic tunneling from a topological Kondo insulator**<br>
+*Saikat Banerjee, Anuva Aishwarya, Fei Liu, Lin Jiao, Vidya Madhavan, Eugene J. Mele, Piers Coleman*<br>
+[arXiv:2512.05057](https://arxiv.org/abs/2512.05057)
+
+**Microscopic evidence of dominant excitonic instability in Ta2NiSe5**<br>
+*Seokjin Bae, Arjun Raghavan, Irena Feldman, Amit Kanigel, Vidya Madhavan*<br>
+[arXiv:2512.03011](https://arxiv.org/abs/2512.03011)
+
+**Reply to "Limitations of detecting structural changes and time-reversal symmetry breaking in scanning tunneling microscopy experiments"**<br>
+*Yuqing Xing, Seokjin Bae, Stephen D. Wilson, Ziqiang Wang, Rafael M. Fernandes, Vidya Madhavan*<br>
+[arXiv:2510.01305](https://arxiv.org/abs/2510.01305)
+
+**Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides**<br>
+*Avior Almoalem, Sajilesh Kunhiparambath, Roni Anna Gofman, Yuval Nitzav, Ilay Mangel, Nitzan Ragoler, Jun Fujii, Ivana Vobornik, Francois Bertran, Amit Kanigel, Jonathan Ruhman, Vidya Madhavan*<br>
+[arXiv:2509.13303](https://arxiv.org/abs/2509.13303)
+
+**Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
+*Seokjin Bae, Arjun Raghavan, Soyeun Kim, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Ziqiang Wang, Fahad Mahmood, Barry Bradlyn, Vidya Madhavan*<br>
+[arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
+
+**Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
+*Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>
+[arXiv:2506.09041](https://arxiv.org/abs/2506.09041)
+
+---
+
 ### 2025
 
 ---

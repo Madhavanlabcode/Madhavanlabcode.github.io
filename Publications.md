@@ -22,6 +22,10 @@ aside: false
 *Arjun Raghavan (+), Seokjin Bae (+), Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
 [Nat. Commun. 17, 1617 (2026)](https://www.nature.com/articles/s41467-026-68323-5)
 
+**Reply to "Limitations of probing field-induced response with STM"**<br>
+*Yuqing Xing, Seokjin Bae, Stephen D. Wilson, Ziqiang Wang, Rafael M. Fernandes, Vidya Madhavan*<br>
+[Nature 650, E21-E22 (2026)](https://www.nature.com/articles/s41586-026-10127-0)
+
 **Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
 *Seokjin Bae, Arjun Raghavan, Soyeun Kim, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Ziqiang Wang, Fahad Mahmood, Barry Bradlyn, Vidya Madhavan*<br>
 [arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
@@ -42,10 +46,6 @@ aside: false
 **Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides**<br>
 *Avior Almoalem, Sajilesh Kunhiparambath, Roni Anna Gofman, Yuval Nitzav, Ilay Mangel, Nitzan Ragoler, Jun Fujii, Ivana Vobornik, Francois Bertran, Amit Kanigel, Jonathan Ruhman, Vidya Madhavan*<br>
 [arXiv:2509.13303](https://arxiv.org/abs/2509.13303)
-
-**Reply to "Limitations of detecting structural changes and time-reversal symmetry breaking in scanning tunneling microscopy experiments"**<br>
-*Yuqing Xing, Seokjin Bae, Stephen D. Wilson, Ziqiang Wang, Rafael M. Fernandes, Vidya Madhavan*<br>
-[arXiv:2510.01305](https://arxiv.org/abs/2510.01305)
 
 **Roadmap on atomically-engineered quantum platforms**<br>
 *Soo-hyon Phark*, Bent Weber*, Yasuo Yoshida*, Patrick R Forrester, Robertus J G Elbertse, Joseph A Stroscio, Hao Wang, Kai Yang, Leo Gross, Shantanu Mishra, Fabian Paschke, Katharina Kaiser, Shadi Fatayer, Jascha Repp, Harry L Anderson, Diego Peña, Florian Albrecht, Franz J Giessibl, Roman Fasel, Joaquín Fernández-Rossier, Shigeki Kawai, Laurent Limot, Nicolás Lorente, Berthold Jäck, Haonan Huang, Joachim Ankerhold, Christian R Ast, Martina Trahms, Clemens B Winkelmann, Katharina J Franke, Martina O Soldini, Glenn Wagner, Titus Neupert, Felix Küster, Souvik Das, Stuart S P Parkin, Paolo Sessi, Zhenyu Wang, Vidya Madhavan, Rupert Huber, Gagandeep Singh, Fabio Donati, Stefano Rusponi, Harald Brune, Eufemio Moreno-Pineda, Mario Ruben, Wolfgang Wernsdorfer, Wantong Huang, Kwan Ho Au-Yeung, Philip Willke, Andreas J Heinrich, Susanne Baumann, Sebastian Loth, Lukas M Veldman, Sander Otte, Christoph Wolf, Lisanne Sellies, Steven R Schofield, Michael E Flatté, Joris G Keizer and Michelle Y Simmons*<br>

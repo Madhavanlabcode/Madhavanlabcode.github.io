@@ -10,66 +10,54 @@ aside: false
 ### 2026
 
 ---
-**Discovery of intertwined pair density and charge density wave orders in UTe2**<br>
-*Zhen Zhu, Yudi Huang, Julian May-Mann, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Eduardo Fradkin, Vidya Madhavan*<br>
-[arXiv:2603.08688](https://arxiv.org/abs/2603.08688)
-
 **Visualizing the low-energy electronic structure of the triplet superconductor UTe2 through quasiparticle interference**<br>
 *Anuva Aishwarya, Hans Christiansen, Sheng Ran, Nicholas P. Butch, Brian M. Andersen, Andreas Kreisel, Shanta R. Saha, Johnpierre Paglione, Vidya Madhavan*<br>
 [arXiv:2601.02192](https://arxiv.org/abs/2601.02192)
 
-**Axionic tunneling from a topological Kondo insulator**<br>
-*Saikat Banerjee, Anuva Aishwarya, Fei Liu, Lin Jiao, Vidya Madhavan, Eugene J. Mele, Piers Coleman*<br>
-[arXiv:2512.05057](https://arxiv.org/abs/2512.05057)
+**Spectroscopic Evidence of Edge-Localized States in an Antiferromagnet Topological Insulator NdBi**<br>
+*Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>
+[Adv. Sci. e22116 (2026)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202522116)
 
-**Microscopic evidence of dominant excitonic instability in Ta2NiSe5**<br>
-*Seokjin Bae, Arjun Raghavan, Irena Feldman, Amit Kanigel, Vidya Madhavan*<br>
-[arXiv:2512.03011](https://arxiv.org/abs/2512.03011)
-
-**Reply to "Limitations of detecting structural changes and time-reversal symmetry breaking in scanning tunneling microscopy experiments"**<br>
-*Yuqing Xing, Seokjin Bae, Stephen D. Wilson, Ziqiang Wang, Rafael M. Fernandes, Vidya Madhavan*<br>
-[arXiv:2510.01305](https://arxiv.org/abs/2510.01305)
-
-**Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides**<br>
-*Avior Almoalem, Sajilesh Kunhiparambath, Roni Anna Gofman, Yuval Nitzav, Ilay Mangel, Nitzan Ragoler, Jun Fujii, Ivana Vobornik, Francois Bertran, Amit Kanigel, Jonathan Ruhman, Vidya Madhavan*<br>
-[arXiv:2509.13303](https://arxiv.org/abs/2509.13303)
+**Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy**<br>
+*Arjun Raghavan (+), Seokjin Bae (+), Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
+[Nat. Commun. 17, 1617 (2026)](https://www.nature.com/articles/s41467-026-68323-5)
 
 **Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
 *Seokjin Bae, Arjun Raghavan, Soyeun Kim, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Ziqiang Wang, Fahad Mahmood, Barry Bradlyn, Vidya Madhavan*<br>
 [arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
 
-**Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
-*Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>
-[arXiv:2506.09041](https://arxiv.org/abs/2506.09041)
+**Discovery of intertwined pair density and charge density wave orders in UTe2**<br>
+*Zhen Zhu, Yudi Huang, Julian May-Mann, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Eduardo Fradkin, Vidya Madhavan*<br>
+[arXiv:2603.08688](https://arxiv.org/abs/2603.08688)
 
 ---
 
 ### 2025
 
 ---
-**Roadmap on atomically-engineered quantum platforms**<br>
-*Soo-hyon Phark*, Bent Weber*, Yasuo Yoshida*, Patrick R Forrester, Robertus J G Elbertse, Joseph A Stroscio, Hao Wang, Kai Yang, Leo Gross, Shantanu Mishra, Fabian Paschke, Katharina Kaiser, Shadi Fatayer, Jascha Repp, Harry L Anderson, Diego Peña, Florian Albrecht, Franz J Giessibl, Roman Fasel, Joaquín Fernández-Rossier, Shigeki Kawai, Laurent Limot, Nicolás Lorente, Berthold Jäck, Haonan Huang, Joachim Ankerhold, Christian R Ast, Martina Trahms, Clemens B Winkelmann, Katharina J Franke, Martina O Soldini, Glenn Wagner, Titus Neupert, Felix Küster, Souvik Das, Stuart S P Parkin, Paolo Sessi, Zhenyu Wang, Vidya Madhavan, Rupert Huber, Gagandeep Singh, Fabio Donati, Stefano Rusponi, Harald Brune, Eufemio Moreno-Pineda, Mario Ruben, Wolfgang Wernsdorfer, Wantong Huang, Kwan Ho Au-Yeung, Philip Willke, Andreas J Heinrich, Susanne Baumann, Sebastian Loth, Lukas M Veldman, Sander Otte, Christoph Wolf, Lisanne Sellies, Steven R Schofield, Michael E Flatté, Joris G Keizer and Michelle Y Simmons*<br>
-[Nano Futures. 9, 032001 (2025)](https://iopscience.iop.org/article/10.1088/2399-1984/ade6b7)
-
-**Dynamic competition between phason and amplitudon observed by ultrafast multimodal scanning tunneling microscopy**<br>
-*Seokjin Bae, Arjun Raghavan, Kejian Qu, Chengxi Zhao, Daniel P. Shoemaker, Fahad Mahmood, Ziqiang Wang, Barry Bradlyn, Vidya Madhavan*<br>
-[arXiv:2507.11627](https://arxiv.org/abs/2507.11627)
-
-**Discovery of a 1D edge mode in a Magnetic Topological semimetal**<br>
-*Avior Almoalem, Rebecca Chan, Brinda Kuthanazhi, Juan Scmidt, Jose A. Moreno, Hermann Suderow, Paul Canfield, Taylor L. Hughes, Vidya Madhavan*<br>
-[arXiv:2506.09041](https://arxiv.org/abs/2506.09041)
-
-**Atomic-scale imaging and charge state manipulation of NV centers by scanning tunneling microscopy**<br>
-*Arjun Raghavan (+), Seokjin Bae (+), Nazar Delegan, F. Joseph Heremans, Vidya Madhavan*<br>
-[arXiv:2504.13280](https://arxiv.org/abs/2504.13280)
-
 **Revealing the Hidden Dirac Gap in a Topological Antiferromagnet Using Floquet-Bloch Manipulation**<br>
 *Nina Bielinski, Rajas Chari, Julian May-Mann, Soyeun Kim, Jack Zwettler, Yujun Deng, Anuva Aishwarya, Subhajit Roychowdhury, Chandra Shekhar, Makoto Hashimoto, Donghui Lu, Jiaqiang Yan, Claudia Felser, Vidya Madhavan, Zhi-Xun Shen, Taylor L. Hughes, Fahad Mahmood*<br>
 [Nat. Phys. 21, 458-463 (2025)](https://www.nature.com/articles/s41567-024-02769-6)
 
-**Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
-*Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>
-[Nano Lett. 25, 41-47 (2025)](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)
+**Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides**<br>
+*Avior Almoalem, Sajilesh Kunhiparambath, Roni Anna Gofman, Yuval Nitzav, Ilay Mangel, Nitzan Ragoler, Jun Fujii, Ivana Vobornik, Francois Bertran, Amit Kanigel, Jonathan Ruhman, Vidya Madhavan*<br>
+[arXiv:2509.13303](https://arxiv.org/abs/2509.13303)
+
+**Reply to "Limitations of detecting structural changes and time-reversal symmetry breaking in scanning tunneling microscopy experiments"**<br>
+*Yuqing Xing, Seokjin Bae, Stephen D. Wilson, Ziqiang Wang, Rafael M. Fernandes, Vidya Madhavan*<br>
+[arXiv:2510.01305](https://arxiv.org/abs/2510.01305)
+
+**Roadmap on atomically-engineered quantum platforms**<br>
+*Soo-hyon Phark*, Bent Weber*, Yasuo Yoshida*, Patrick R Forrester, Robertus J G Elbertse, Joseph A Stroscio, Hao Wang, Kai Yang, Leo Gross, Shantanu Mishra, Fabian Paschke, Katharina Kaiser, Shadi Fatayer, Jascha Repp, Harry L Anderson, Diego Peña, Florian Albrecht, Franz J Giessibl, Roman Fasel, Joaquín Fernández-Rossier, Shigeki Kawai, Laurent Limot, Nicolás Lorente, Berthold Jäck, Haonan Huang, Joachim Ankerhold, Christian R Ast, Martina Trahms, Clemens B Winkelmann, Katharina J Franke, Martina O Soldini, Glenn Wagner, Titus Neupert, Felix Küster, Souvik Das, Stuart S P Parkin, Paolo Sessi, Zhenyu Wang, Vidya Madhavan, Rupert Huber, Gagandeep Singh, Fabio Donati, Stefano Rusponi, Harald Brune, Eufemio Moreno-Pineda, Mario Ruben, Wolfgang Wernsdorfer, Wantong Huang, Kwan Ho Au-Yeung, Philip Willke, Andreas J Heinrich, Susanne Baumann, Sebastian Loth, Lukas M Veldman, Sander Otte, Christoph Wolf, Lisanne Sellies, Steven R Schofield, Michael E Flatté, Joris G Keizer and Michelle Y Simmons*<br>
+[Nano Futures. 9, 032001 (2025)](https://iopscience.iop.org/article/10.1088/2399-1984/ade6b7)
+
+**Microscopic evidence of dominant excitonic instability in Ta2NiSe5**<br>
+*Seokjin Bae, Arjun Raghavan, Irena Feldman, Amit Kanigel, Vidya Madhavan*<br>
+[arXiv:2512.03011](https://arxiv.org/abs/2512.03011)
+
+**Axionic tunneling from a topological Kondo insulator**<br>
+*Saikat Banerjee, Anuva Aishwarya, Fei Liu, Lin Jiao, Vidya Madhavan, Eugene J. Mele, Piers Coleman*<br>
+[arXiv:2512.05057](https://arxiv.org/abs/2512.05057)
 
 ---
 
@@ -99,6 +87,10 @@ aside: false
 **Melting of the Charge Density Wave by Generation of Pairs of Topological Defects in UTe<sub>2</sub>**<br>
 *Anuva Aishwarya, Julian May-Mann, Avior Almoalem, Sheng Ran, Shanta R. Saha, Johnpierre Paglione, Nicholas P. Butch, Eduardo Fradkin, Vidya Madhavan*<br>
 [Nat. Phys. 20, 964-969 (2024)](https://www.nature.com/articles/s41567-024-02429-9)
+
+**Interaction Effects and Non-Integer Pseudo-Landau Levels in Engineered Periodically Strained Graphene**<br>
+*Iva Srut Rakic, Matthew J. Gilbert, Preetha Sarkar, Anuva Aishwarya, Marco Polini, Vidya Madhavan (++), Nadya Mason (++)*<br>
+[Nano Lett. 25, 41-47 (2025)](https://pubs.acs.org/doi/10.1021/acs.nanolett.4c03542)
 
 ---
 

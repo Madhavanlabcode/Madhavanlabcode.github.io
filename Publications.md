@@ -34,6 +34,10 @@ aside: false
 *Zhen Zhu, Yudi Huang, Julian May-Mann, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Eduardo Fradkin, Vidya Madhavan*<br>
 [arXiv:2603.08688](https://arxiv.org/abs/2603.08688)
 
+**Topological surface states revealed by the Zeeman effect in superconducting UTe2**<br>
+*Zhen Zhu, Hans Christiansen, Yudi Huang, Kaiming Liu, Zheyu Wu, Shanta R. Saha, Johnpierre Paglione, Alexander G. Eaton, Andrej Cabala, Michal Vališka, Rafael M. Fernandes, Andreas Kreisel, Brian M. Andersen, Vidya Madhavan*<br>
+[arXiv:2604.04883](https://arxiv.org/abs/2604.04883)
+
 ---
 
 ### 2025

@@ -1,6 +1,6 @@
 ---
 title:  "Arjun Defends Thesis!"
-date:   2023-08-04 14:30:00 -0500
+date:   2025-08-04 14:30:00 -0500
 categories:
   - People
 ---
